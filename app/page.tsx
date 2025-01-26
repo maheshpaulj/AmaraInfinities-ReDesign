@@ -144,27 +144,27 @@ export default function Home() {
         <div className="loader-clip clip-top" ref={clipTopRef}>
           <div className="marquee" ref={topMarqueeRef}>
             <div className="marquee-container">
-              <span>Amara Infinities® </span>
-              Amara Infinities® 
-              <span>Amara Infinities® </span>
+              <span>Amara Infinites® </span>
+              Amara Infinites® 
+              <span>Amara Infinites® </span>
             </div>
           </div>
         </div>
         <div className="loader-clip clip-bottom" ref={clipBottomRef}>
           <div className="marquee" ref={bottomMarqueeRef}>
             <div className="marquee-container">
-              <span>Amara Infinities®</span>
-              Amara Infinities® 
-              <span>Amara Infinities®</span>
+              <span>Amara Infinites®</span>
+              Amara Infinites® 
+              <span>Amara Infinites®</span>
             </div>
           </div>
         </div>
         <div className="clip-center flex items-center flex-col-reverse">
           <div className="marquee" ref={marqueeRef}>
             <div className="marquee-container">
-              <span ref={marqueeSpanRef}>Amara Infinities® </span>
-                Amara Infinities® 
-              <span ref={marqueeSpanRef}>Amara Infinities® </span>
+              <span ref={marqueeSpanRef}>Amara Infinites® </span>
+                Amara Infinites® 
+              <span ref={marqueeSpanRef}>Amara Infinites® </span>
             </div>
           </div>
         </div>
@@ -177,7 +177,7 @@ export default function Home() {
         </div>
         <button
           ref={buttonRef}
-          className="cursor-pointer bg-gradient-to-b from-indigo-500 to-indigo-600 shadow-[0px_4px_32px_0_rgba(99,102,241,.70)] px-6 py-3 rounded-xl border-[1px] border-slate-500 text-white font-medium group w-[184px]"
+          className="cursor-pointer bg-gradient-to-b from-black to-neutral-600 shadow-[0px_4px_32px_0_rgba(3,2,1,.70)] px-6 py-3 rounded-xl border-[1px] border-slate-500 text-white font-medium group w-[184px]"
           onClick={() => router.push('/service')}
         >
           <div className="relative overflow-hidden">

@@ -62,9 +62,9 @@ export default function About() {
     <motion.div 
       initial="hidden"
       animate="visible"
-      className="min-h-screen max-w-screen bg-white flex flex-col justify-center items-center pb-10"
+      className="min-h-screen max-w-screen bg-white flex flex-col justify-center items-center pb-10 transform-none pt-10"
     >
-      <div className="container px-6 py-12 max-w-4xl">
+      <div className="px-6 py-12 max-w-4xl">
         <motion.h1 
           variants={sectionVariants}
           className="text-5xl font-bold mb-8 text-center text-gray-800 tracking-tight"

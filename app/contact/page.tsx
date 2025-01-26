@@ -89,7 +89,7 @@ export default function Contact() {
       variants={containerVariants}
       className="min-h-screen max-w-screen bg-white flex flex-col justify-center items-center"
     >
-      <div className="container mx-auto px-6 py-12 max-w-2xl">
+      <div className="mx-auto px-6 py-12 max-w-2xl">
         <motion.h2 
           variants={itemVariants}
           className="text-4xl font-bold mb-12 text-center text-gray-800 tracking-tight"

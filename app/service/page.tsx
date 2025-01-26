@@ -3,6 +3,7 @@ import React, { useState, useMemo, useEffect } from 'react';
 import { motion } from 'framer-motion';
 import { Search, Filter, Grid, List, ChevronLeft, ChevronRight } from 'lucide-react';
 import Image from 'next/image';
+import { BiSort } from 'react-icons/bi';
 
 // Comprehensive TypeScript Interfaces
 interface Quantity {
@@ -75,7 +76,7 @@ const CATEGORIES = {
     name: "Web Solutions"
   },
   eCommerceListing: {
-    id: "e-listing",
+    id: "elisting",
     name: "eCommerce listing"
   },
   groceries: {
@@ -189,7 +190,7 @@ export default function ProductsPage() {
       {/* Sidebar */}
       <motion.div 
         variants={itemVariants}
-        className="h-full mt-8 w-64 bg-white p-6 border-r shadow-sm"
+        className="h-full mt-8 w-64 bg-white p-6 border-r shadow-sm flex flex-col max-md:hidden rounded-md ml-2"
       >
         <h2 className="text-xl font-bold mb-6 flex items-center">
           <Filter className="mr-2" /> Filters
@@ -219,9 +220,9 @@ export default function ProductsPage() {
       <div className="flex-1 p-8">
         <motion.div 
           variants={itemVariants}
-          className="flex justify-between items-center mb-6"
+          className="flex max-md:flex-col max-md:space-y-2 justify-between items-center mb-6"
         >
-          <div className="relative flex-grow mr-4">
+          <div className="relative flex-1 w-full mr-4 max-md:mr-0">
             <input 
               type="text" 
               placeholder="Search products..." 
@@ -231,10 +232,26 @@ export default function ProductsPage() {
             />
             <Search className="absolute left-3 top-1/2 transform -translate-y-1/2 text-gray-400" />
           </div>
-
-          <div className="flex items-center space-x-4">
+          <div className="w-full items-center hidden max-md:flex">
+            <Filter />
+            <div className="space-y-2 flex-1">
+              <select
+                onChange={(e) => setSelectedCategory(
+                  selectedCategory === e.target.value ? null : (e.target.value === "all" ? null : e.target.value)
+                )}
+                className="w-full border rounded-md px-2 py-1"
+              >
+                {Object.entries(CATEGORIES).map(([key, category]) => (
+                  <option key={key} value={category.id}>
+                    {category.name}
+                  </option>
+                ))}
+              </select>
+            </div>
+          </div>
+          <div className="flex-1 flex justify-between items-center space-x-4 w-full">
             <div className="flex items-center">
-              <span className="mr-2">Sort by:</span>
+              <span className="mr-2"><BiSort size={28} /></span>
               <select 
                 value={sortBy}
                 onChange={(e) => setSortBy(e.target.value as SortOption)}
@@ -344,7 +361,6 @@ export default function ProductsPage() {
                   <h3 className="text-lg font-semibold">{product.name}</h3>
                   <p className="text-gray-600 text-sm">{product.description}</p>
                   
-                  {/* Quantity Dropdown */}
                   <div className="mt-2">
                     <select 
                       value={JSON.stringify(productState.selectedQuantity)}
@@ -384,21 +400,37 @@ export default function ProductsPage() {
         </motion.div>
 
         {/* Pagination */}
-        <div className="flex justify-center mt-8 space-x-2">
+        <div className="flex justify-center mt-8 space-x-2 w-full">
+          <button
+            onClick={() => setCurrentPage(currentPage - 1)}
+            disabled={currentPage === 1}
+            className={`rounded-md ${currentPage === 1 ? 'hidden' : 'text-gray-500'} hover:text-black`}
+          >
+            Previous
+          </button>
+
           {Array.from({ length: totalPages }, (_, i) => i + 1).map(page => (
             <button
               key={page}
               onClick={() => setCurrentPage(page)}
               className={`
-                px-4 py-2 rounded-md
+                rounded-md hover:text-black
                 ${currentPage === page 
-                  ? 'bg-gray-700 text-white' 
-                  : 'bg-gray-200 text-gray-700'}
+                  ? 'text-black' 
+                  : 'text-gray-500'}
               `}
             >
               {page}
             </button>
           ))}
+
+          <button
+            onClick={() => setCurrentPage(currentPage + 1)}
+            disabled={currentPage === totalPages}
+            className={`rounded-md ${currentPage === totalPages ? 'text-black' : 'text-gray-500'} hover:text-black`}
+          >
+            Next
+          </button>
         </div>
       </div>
     </motion.div>
