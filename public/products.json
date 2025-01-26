@@ -1,0 +1,2756 @@
+[
+    {
+      "name": "Sole Proprietorship",
+      "category": "registration",
+      "unit": "per person",
+      "quantities": [
+        { "quantity": "GST+MSME", "price": 1499 }
+      ],
+      "image": "https://amarainfinites.com/img/100.jpeg",
+      "description": "GST Registration and UDYAM Registration/Micro, Small, or Medium Enterprise (MSME)"
+   },
+   {
+    "name": "Partnership firm",
+    "category": "registration",
+    "unit": "Registered",
+    "quantities": [
+      { "quantity": "Form C+PAN", "price": 5999 }
+    ],
+    "image": "https://amarainfinites.com/img/101.png",
+    "description": "Partnership deed, Business PAN and Form C"
+  },
+  {
+    "name": "Limited Liability Partnership",
+    "category": "registration",
+    "unit": "per registration",
+    "quantities": [
+      { "quantity": "LLP", "price": 9999 }
+    ],
+    "image": "https://amarainfinites.com/img/102.png",
+    "description": "LLP deed, Incorporation, 2 DSCs, PAN and TAN"
+  },
+  {
+    "name": "Private Limited Company",
+    "category": "registration",
+    "unit": "per company",
+    "quantities": [
+      { "quantity": "Pvt Ltd", "price": 9999 }
+    ],
+    "image": "https://amarainfinites.com/img/103.png",
+    "description": "MOA, AOA, Incorporation, 2 DSCs, PF, ESI, GST, PAN and TAN"
+  },
+  {
+    "name": "One Person Company",
+    "category": "registration",
+    "unit": "per company",
+    "quantities": [
+      { "quantity": "OPC", "price": 7999 }
+    ],
+    "image": "https://amarainfinites.com/img/104.png",
+    "description": "MOA, AOA, Incorporation, DSC, PAN and TAN"
+  },
+  {
+    "name": "Startup India Registration",
+    "category": "registration",
+    "unit": "per service",
+    "quantities": [
+      { "quantity": "Certificate", "price": 2999 }
+    ],
+    "image": "https://amarainfinites.com/img/105.png",
+    "description": "Startup India certificate from DPIIT."
+  },
+  {
+    "name": "Consultation",
+    "category": "registration",
+    "unit": "per service",
+    "quantities": [
+      { "quantity": "Consulting", "price": 2499 }
+    ],
+    "image": "https://amarainfinites.com/img/105A.png",
+    "description": "Consult a professional for your business needs"
+  },
+  {
+    "name": "GST Registration",
+    "category": "gst",
+    "unit": "per service",
+    "quantities": [
+      { "quantity": "GST", "price": 1499 }
+    ],
+    "image": "https://amarainfinites.com/img/106.png",
+    "description": "GSTIN - Goods and Services Tax Identification Number"
+  },
+  {
+    "name": "GST Filing",
+    "category": "gst",
+    "unit": "per service",
+    "quantities": [
+      { "quantity": "Monthly", "price": 499 },
+      { "quantity": "Yearly", "price": 5499 }
+    ],
+    "image": "https://amarainfinites.com/img/107.png",
+    "description": "GSTR 1 and GSTR 3B filing"
+  },
+  {
+    "name": "GST Cancellation / Revocation",
+    "category": "gst",
+    "unit": "per service",
+    "quantities": [
+      { "quantity": "Cancellation", "price": 1499 },
+      { "quantity": "Revocation", "price": 1499 }
+    ],
+    "image": "https://amarainfinites.com/img/108.png",
+    "description": "Kindly enquire to know more about the process"
+  },
+  {
+    "name": "ISO",
+    "category": "license",
+    "unit": "per license",
+    "quantities": [
+      { "quantity": "Variable", "price": "NA" }
+    ],
+    "image": "https://amarainfinites.com/img/109.png",
+    "description": "Kindly enquire to know more about the process"
+  },
+  {
+    "name": "FSSAI",
+    "category": "license",
+    "unit": "per license",
+    "quantities": [
+      { "quantity": "Basic", "price": 999 },
+      { "quantity": "State", "price": 3999 },
+      { "quantity": "Central", "price": 9999 }
+    ],
+    "image": "https://amarainfinites.com/img/110.png",
+    "description": "The Food Safety and Standards Authority of India license for all FBO"
+  },
+  {
+    "name": "Drug & Cosmetic License",
+    "category": "license",
+    "unit": "per license",
+    "quantities": [
+      { "quantity": "License", "price": 21999 }
+    ],
+    "image": "https://amarainfinites.com/img/111.png",
+    "description": "License for manufacture, sale and distribution of drugs and cosmetics"
+  },
+  {
+    "name": "PF Registration",
+    "category": "license",
+    "unit": "per service",
+    "quantities": [
+      { "quantity": "EPF", "price": 999 }
+    ],
+    "image": "https://amarainfinites.com/img/112.png",
+    "description": "Employer PF certificate and number"
+  },
+  {
+    "name": "ESI Registration",
+    "category": "license",
+    "unit": "per service",
+    "quantities": [
+      { "quantity": "ESI", "price": 999 }
+    ],
+    "image": "https://amarainfinites.com/img/113.png",
+    "description": "Employer ESI certificate and number"
+  },
+  {
+    "name": "Professional Tax Registration",
+    "category": "license",
+    "unit": "per service",
+    "quantities": [
+      { "quantity": "PTRC & PTEC", "price": 999 }
+    ],
+    "image": "https://amarainfinites.com/img/114.png",
+    "description": "PT Registration certificate and PTRC & PTEC number"
+  },
+  {
+    "name": "Shop and Establishment license",
+    "category": "license",
+    "unit": "per service",
+    "quantities": [
+      { "quantity": "Variable", "price": "NA" }
+    ],
+    "image": "https://amarainfinites.com/img/115.png",
+    "description": "Kindly enquire to know more about the process"
+  },
+  {
+    "name": "Import Export Code",
+    "category": "iec",
+    "unit": "per service",
+    "quantities": [
+      { "quantity": "IEC", "price": 1499 }
+    ],
+    "image": "https://amarainfinites.com/img/116.png",
+    "description": "Import Export Certificate with IE Code Number"
+  },
+  {
+    "name": "AD Code Registration",
+    "category": "iec",
+    "unit": "per service",
+    "quantities": [
+      { "quantity": "IEC", "price": 2499 }
+    ],
+    "image": "https://amarainfinites.com/img/117.png",
+    "description": "Authorized Dealer code for import-export"
+  },
+  {
+    "name": "Customs clearance",
+    "category": "iec",
+    "unit": "per service",
+    "quantities": [
+      { "quantity": "Variable", "price": "NA" }
+    ],
+    "image": "https://amarainfinites.com/img/118.png",
+    "description": "Kindly enquire to know more about the process"
+  },
+  {
+    "name": "Import Export Assistance",
+    "category": "iec",
+    "unit": "per service",
+    "quantities": [
+      { "quantity": "Variable", "price": "NA" }
+    ],
+    "image": "https://amarainfinites.com/img/119.png",
+    "description": "Kindly enquire to know more about the process"
+  },
+  {
+    "name": "IT Filing",
+    "category": "tax",
+    "unit": "per year",
+    "quantities": [
+      { "quantity": "ITR for Individual", "price": 2499 },
+      { "quantity": "ITR for LLP", "price": 4999 },
+      { "quantity": "ITR for Proprietor", "price": 4999 },
+      { "quantity": "Corporate tax", "price": 4999 }
+    ],
+    "image": "https://amarainfinites.com/img/120.png",
+    "description": "Income tax filing for individual under Rs. 5 lakhs and others under Rs. 10 lakhs."
+  },
+  {
+    "name": "TDS Return Filing",
+    "category": "tax",
+    "unit": "Variable",
+    "quantities": [
+      { "quantity": "TDS", "price": "NA" }
+    ],
+    "image": "https://amarainfinites.com/img/121.png",
+    "description": "Kindly enquire to know more about the process"
+  },
+  {
+    "name": "Annual Compliance",
+    "category": "mca",
+    "unit": "per year",
+    "quantities": [
+      { "quantity": "Pvt Ltd", "price": 19999 },
+      { "quantity": "OPC", "price": 17999 },
+      { "quantity": "LLP", "price": 19999 }
+    ],
+    "image": "https://amarainfinites.com/img/122.png",
+    "description": "Annual compliance with MCA for Private Limited Company, One Person Company and Limited Liability Partnership"
+  },
+  {
+    "name": "Director change",
+    "category": "mca",
+    "unit": "per service",
+    "quantities": [
+      { "quantity": "Adding", "price": 2999 },
+      { "quantity": "Removing", "price": 2999 }
+    ],
+    "image": "https://amarainfinites.com/img/123.png",
+    "description": "Director change, add and removal with MCA"
+  },
+  {
+    "name": "Authorized Capital Increase",
+    "category": "mca",
+    "unit": "per service",
+    "quantities": [
+      { "quantity": "Increasing", "price": 2999 }
+    ],
+    "image": "https://amarainfinites.com/img/124.png",
+    "description": "Changing capital incurs additional charge of stamp duty according to locality"
+  },
+  {
+    "name": "Winding up",
+    "category": "mca",
+    "unit": "per service",
+    "quantities": [
+      { "quantity": "Company", "price": 14999 },
+      { "quantity": "LLP", "price": 14999 }
+    ],
+    "image": "https://amarainfinites.com/img/125.png",
+    "description": "Winding up of a Private Limited Company, LLP, etc."
+  },
+  {
+    "name": "MOA, AOA Amendment",
+    "category": "mca",
+    "unit": "per service",
+    "quantities": [
+      { "quantity": "MOA", "price": 3999 },
+      { "quantity": "AOA", "price": 3999 }
+    ],
+    "image": "https://amarainfinites.com/img/126.png",
+    "description": "Amending MOA and AOA incurs additional charge of stamp duty according to locality"
+  },
+  {
+    "name": "Registered office change",
+    "category": "mca",
+    "unit": "per service",
+    "quantities": [
+      { "quantity": "Address", "price": 3999 }
+    ],
+    "image": "https://amarainfinites.com/img/127.png",
+    "description": "Change your business registered address"
+  },
+  {
+    "name": "Trademark Registration",
+    "category": "ipr",
+    "unit": "per service",
+    "quantities": [
+      { "quantity": "Word mark", "price": 7999 },
+      { "quantity": "Device mark", "price": 7999 }
+    ],
+    "image": "https://amarainfinites.com/img/128.png",
+    "description": "Protect your brand and logo with trademark"
+  },
+  {
+    "name": "Copyright Registration",
+    "category": "ipr",
+    "unit": "per service",
+    "quantities": [
+      { "quantity": "copyright", "price": 2999 }
+    ],
+    "image": "https://amarainfinites.com/img/129.png",
+    "description": "Copyright your creative works"
+  },
+  {
+    "name": "Patent Registration",
+    "category": "ipr",
+    "unit": "per service",
+    "quantities": [
+      { "quantity": "Patent", "price": 8999 }
+    ],
+    "image": "https://amarainfinites.com/img/130.png",
+    "description": "Protect your innovative ideas"
+  },
+  {
+    "name": "Design Registration",
+    "category": "ipr",
+    "unit": "per design",
+    "quantities": [
+      { "quantity": "Design", "price": 7999 }
+    ],
+    "image": "https://amarainfinites.com/img/131.png",
+    "description": "Shield your designs from being imitated"
+  },
+  {
+    "name": "Sale agreement",
+    "category": "drafting",
+    "unit": "per contract",
+    "quantities": [
+      { "quantity": "sale", "price": 5500 }
+    ],
+    "image": "https://amarainfinites.com/img/133.png",
+    "description": "Professional drafting services for precise, legally compliant sale deeds tailored to your needs."
+  },
+  {
+    "name": "Employment agreement",
+    "category": "drafting",
+    "unit": "per contract",
+    "quantities": [
+      { "quantity": "Employment", "price": 3700 }
+    ],
+    "image": "https://amarainfinites.com/img/134.png",
+    "description": "Expert drafting services for comprehensive, legally binding employment agreements tailored to safeguard employer-employee relationships."
+  },
+  {
+    "name": "Rental agreement",
+    "category": "drafting",
+    "unit": "per contract",
+    "quantities": [
+      { "quantity": "Rental", "price": 3500 }
+    ],
+    "image": "https://amarainfinites.com/img/136.png",
+    "description": "Precise drafting services for customized, legally compliant rental agreements to protect landlord and tenant rights."
+  },
+  {
+    "name": "Agreement drafting",
+    "category": "drafting",
+    "unit": "per contract",
+    "quantities": [
+      { "quantity": "Drafting", "price": 3000 }
+    ],
+    "image": "https://amarainfinites.com/img/137.png",
+    "description": "Professional agreement drafting services for legally sound contracts to meet your specific requirements."
+  },
+  {
+    "name": "Title Verification",
+    "category": "drafting",
+    "unit": "per document",
+    "quantities": [
+      { "quantity": "Verification", "price": 9000 }
+    ],
+    "image": "https://amarainfinites.com/img/138.png",
+    "description": "Verify ownership and check defects in property title"
+  },
+  {
+    "name": "Logo designing",
+    "category": "creatives",
+    "unit": "project-based",
+    "quantities": [
+      { "quantity": "per design", "price": 2999 }
+    ],
+    "image": "https://amarainfinites.com/img/139.png",
+    "description": "Creative and professional designs for your unique brand needs"
+  },
+  {
+    "name": "Web designing",
+    "category": "creatives",
+    "unit": "per design",
+    "quantities": [
+      { "quantity": "starts at", "price": 6999 }
+    ],
+    "image": "https://amarainfinites.com/img/140.png",
+    "description": "Modern, responsive, and user-friendly web design for businesses."
+  },
+  {
+    "name": "Package designing",
+    "category": "creatives",
+    "unit": "project-based",
+    "quantities": [
+      { "quantity": "per pack", "price": 5999 }
+    ],
+    "image": "https://amarainfinites.com/img/141.png",
+    "description": "Eye-catching, functional, and innovative package designs for products."
+  },
+  {
+    "name": "Visiting card designing",
+    "category": "creatives",
+    "unit": "per design",
+    "quantities": [
+      { "quantity": "Standard", "price": 799 },
+      { "quantity": "Designer", "price": 1999 }
+    ],
+    "image": "https://amarainfinites.com/img/142.png",
+    "description": "Professional, stylish, and personalized visiting card design services."
+  },
+  {
+    "name": "Letterhead designing",
+    "category": "creatives",
+    "unit": "per design",
+    "quantities": [
+      { "quantity": "Standard", "price": 499 },
+      { "quantity": "Designer", "price": 1299 }
+    ],
+    "image": "https://amarainfinites.com/img/143.png",
+    "description": "Elegant, branded, and professional letterhead design for businesses."
+  },
+  {
+    "name": "Standard Website",
+    "category": "web",
+    "unit": "static",
+    "quantities": [
+      { "quantity": "per site", "price": 11999 }
+    ],
+    "image": "https://amarainfinites.com/img/144.png",
+    "description": "Standard static website. One year hosting + domain + 5 business emails + maintenance."
+  },
+  {
+    "name": "Standard eCommerce Website",
+    "category": "web",
+    "unit": "upto 50 products",
+    "quantities": [
+      { "quantity": "per site", "price": 21999 }
+    ],
+    "image": "https://amarainfinites.com/img/145.png",
+    "description": "Standard eCommerce website. Upto 50 product listing. One year hosting + domain + 5 business emails + maintenance."
+  },
+  {
+    "name": "Customized Website",
+    "category": "web",
+    "unit": "project-based",
+    "quantities": [
+      { "quantity": "starts at", "price": 29999 }
+    ],
+    "image": "https://amarainfinites.com/img/146.png",
+    "description": "Customized website for your business needs. One year hosting + domain + 5 business emails + maintenance."
+  },
+  {
+    "name": "Product listing",
+    "category": "elisting",
+    "unit": "per 50 products",
+    "quantities": [
+      { "quantity": "per eCommerce", "price": 1999 }
+    ],
+    "image": "https://amarainfinites.com/img/147.png",
+    "description": "Make you online presence with our product listing services. Amazon, Flipkart, Meesho, Myntra, etc"
+  },
+  {
+    "name": "Account management",
+    "category": "elisting",
+    "unit": "Monthly",
+    "quantities": [
+      { "quantity": "per eCommerce", "price": 1499 }
+    ],
+    "image": "https://amarainfinites.com/img/148.png",
+    "description": "Let us manage your eCommerce account. Amazon, Flipkart, Meesho, Myntra, etc"
+  },
+  {
+    "name": "Ad Campaigning",
+    "category": "elisting",
+    "unit": "per ad",
+    "quantities": [
+      { "quantity": "per eCommerce", "price": 499 }
+    ],
+    "image": "https://amarainfinites.com/img/149.png",
+    "description": "Sponsor your ads to the right audience"
+  },
+    {
+      "name": "Carrot",
+      "category": "grocery",
+      "unit": "per kg",
+      "quantities": [
+        { "quantity": "25kg", "price": 45 }
+      ],
+      "images": [
+        "https://amarainfinites.com/img/801.jpeg",
+        "https://amarainfinites.com/img/802.jpeg"
+      ],
+      "description": "Fresh carrots, available in premium quality."
+    },
+    {
+      "name": "Beetroot",
+      "category": "grocery",
+      "unit": "per kg",
+      "quantities": [
+        { "quantity": "25kg", "price": 55 }
+      ],
+      "images": [
+        "https://amarainfinites.com/img/803.jpg",
+        "https://amarainfinites.com/img/804.jpeg"
+      ],
+      "description": "Fresh beetroot, available in premium quality."
+    },
+    {
+      "name": "Celery",
+      "category": "grocery",
+      "unit": "per kg",
+      "quantities": [
+        { "quantity": "10kg", "price": 60 }
+      ],
+      "images": [
+        "https://amarainfinites.com/img/805.jpg",
+        "https://amarainfinites.com/img/806.jpg"
+      ],
+      "description": "Fresh celery, ideal for salads and soups."
+    },
+    {
+      "name": "Leeks",
+      "category": "grocery",
+      "unit": "per kg",
+      "quantities": [
+        { "quantity": "10kg", "price": 65 }
+      ],
+      "images": [
+        "https://amarainfinites.com/img/807.jpg",
+        "https://amarainfinites.com/img/808.jpg"
+      ],
+      "description": "Fresh leeks, great for soups and stews."
+    },
+    {
+      "name": "Parsley",
+      "category": "grocery",
+      "unit": "per kg",
+      "quantities": [
+        { "quantity": "10kg", "price": 120 }
+      ],
+      "images": [
+        "https://amarainfinites.com/img/809.jpg",
+        "https://amarainfinites.com/img/810.jpg"
+      ],
+      "description": "Fresh parsley, ideal for garnishing and flavoring dishes."
+    },
+    {
+      "name": "Thyme",
+      "category": "grocery",
+      "unit": "per kg",
+      "quantities": [
+        { "quantity": "10kg", "price": 180 }
+      ],
+      "images": [
+        "https://amarainfinites.com/img/811.jpg",
+        "https://amarainfinites.com/img/812.jpg"
+      ],
+      "description": "Fresh thyme, perfect for seasoning meats and stews."
+    },
+    {
+      "name": "Zucchini (Yellow and Green)",
+      "category": "grocery",
+      "unit": "per kg",
+      "quantities": [
+        { "quantity": "25kg", "price": 90 }
+      ],
+      "images": [
+        "https://amarainfinites.com/img/813.jpg",
+        "https://amarainfinites.com/img/814.jpg"
+      ],
+      "description": "Fresh zucchini, both yellow and green varieties available."
+    },
+    {
+      "name": "Orange",
+      "category": "grocery",
+      "unit": "per kg",
+      "quantities": [
+        { "quantity": "25kg", "price": 60 }
+      ],
+      "images": [
+        "https://amarainfinites.com/img/815.jpg",
+        "https://amarainfinites.com/img/816.jpg"
+      ],
+      "description": "Fresh oranges, perfect for juices and snacking."
+    },
+    {
+      "name": "Papaya",
+      "category": "grocery",
+      "unit": "per kg",
+      "quantities": [
+        { "quantity": "25kg", "price": 25 }
+      ],
+      "images": [
+        "https://amarainfinites.com/img/817.jpg",
+        "https://amarainfinites.com/img/818.jpg"
+      ],
+      "description": "Fresh papaya, sweet and tropical, perfect for smoothies."
+    },
+    {
+      "name": "Watermelon",
+      "category": "grocery",
+      "unit": "per kg",
+      "quantities": [
+        { "quantity": "25kg", "price": 20 }
+      ],
+      "images": [
+        "https://amarainfinites.com/img/819.jpg",
+        "https://amarainfinites.com/img/820.jpg"
+      ],
+      "description": "Juicy watermelon, great for summer refreshment."
+    },
+    {
+      "name": "Pomegranate",
+      "category": "grocery",
+      "unit": "per kg",
+      "quantities": [
+        { "quantity": "25kg", "price": 140 }
+      ],
+      "images": [
+        "https://amarainfinites.com/img/821.jpeg",
+        "https://amarainfinites.com/img/822.png"
+      ],
+      "description": "Fresh pomegranate, full of juicy seeds, perfect for snacking."
+    },
+    {
+      "name": "Apple",
+      "category": "grocery",
+      "unit": "per kg",
+      "quantities": [
+        { "quantity": "25kg", "price": 180 }
+      ],
+      "images": [
+        "https://amarainfinites.com/img/823.jpeg",
+        "https://amarainfinites.com/img/824.jpg"
+      ],
+      "description": "Fresh apples, crisp and sweet, great for snacking or baking."
+    },
+    {
+        "name": "Jaggery",
+        "category": "grocery",
+        "unit": "per kg",
+        "quantities": [
+          { "quantity": "30 kg", "price": 55 }
+        ],
+       "images": [
+        "https://amarainfinites.com/img/23A.jpg",
+        "https://amarainfinites.com/img/23B.jpg"
+        ],
+        "description": "Pure, rich jaggery, a healthy alternative sweetener for recipes and drinks."
+      },
+    {
+        "name": "Palm jaggery",
+        "category": "grocery",
+        "unit": "per kg",
+        "quantities": [
+          { "quantity": "20 kg", "price": 350 }
+        ],
+        "images": [
+        "https://amarainfinites.com/img/24A.jpg",
+        "https://amarainfinites.com/img/24B.jpg"
+        ],
+        "description": "Pure palm jaggery, earthy sweetness, ideal for desserts and beverages."
+      },
+    {
+        "name": "Country sugar",
+        "category": "grocery",
+        "unit": "per kg",
+        "quantities": [
+          { "quantity": "30 kg", "price": 65 }
+        ],
+        "images": [
+        "https://amarainfinites.com/img/25A.jpg",
+        "https://amarainfinites.com/img/25B.jpg"
+        ],
+        "description": "Natural, unrefined country sugar, perfect for sweetening, cooking, and desserts."
+      },
+    {
+        "name": "Turmeric (urulai)",
+        "category": "grocery",
+        "unit": "per kg",
+        "quantities": [
+          { "quantity": "50 kg", "price": 155 }
+        ],
+        "images": [
+        "https://amarainfinites.com/img/26A.jpg",
+        "https://amarainfinites.com/img/26B.jpg"
+        ],
+        "description": "Premium turmeric, rich in flavour, perfect for cooking and health."
+      },
+    {
+        "name": "Turmeric (Virali)",
+        "category": "grocery",
+        "unit": "per kg",
+        "quantities": [
+          { "quantity": "50 kg", "price": 185 }
+        ],
+       "images": [
+        "https://amarainfinites.com/img/27A.jpg",
+        "https://amarainfinites.com/img/27B.jpg"
+        ],
+        "description": "Pure Virali turmeric, vibrant color, ideal for cooking and health benefits."
+      },
+    {
+        "name": "Turmeric powder",
+        "category": "grocery",
+        "unit": "per kg",
+        "quantities": [
+          { "quantity": "50 kg", "price": 185 }
+        ],
+       "images": [
+        "https://amarainfinites.com/img/28A.jpg",
+        "https://amarainfinites.com/img/28B.jpg"
+        ],
+        "description": "Pure turmeric powder, vibrant yellow, perfect for cooking, curries, and health."
+      },
+    {
+        "name": "Kasturi Turmeric powder",
+        "category": "grocery",
+        "unit": "per kg",
+        "quantities": [
+          { "quantity": "10 kg", "price": 310 }
+        ],
+       "images": [
+        "https://amarainfinites.com/img/29A.jpg",
+        "https://amarainfinites.com/img/29B.jpg"
+        ],
+        "description": " Pure Kasturi turmeric powder, rich in fragrance, perfect for skincare and beauty."
+      },
+    {
+        "name": "Mysore gram",
+        "category": "grocery",
+        "unit": "per kg",
+        "quantities": [
+          { "quantity": "50 kg", "price": 80 }
+        ],
+        "images": [
+        "https://amarainfinites.com/img/30A.jpg",
+        "https://amarainfinites.com/img/30B.jpg"
+        ],
+        "description": "High-quality Mysore gram, perfect for flavourful dals, soups, and curries."
+      },
+    {
+        "name": "Red gram",
+        "category": "grocery",
+        "unit": "per kg",
+        "quantities": [
+          { "quantity": "50 kg", "price": 145 }
+        ],
+       "images": [
+        "https://amarainfinites.com/img/31A.jpg",
+        "https://amarainfinites.com/img/31B.jpg"
+        ],
+        "description": " Premium red gram, rich in protein, perfect for dals and curries."
+      },
+    {
+        "name": "Green peas",
+        "category": "grocery",
+        "unit": "per kg",
+        "quantities": [
+          { "quantity": "30 kg", "price": 48 }
+        ],
+        "images": [
+        "https://amarainfinites.com/img/32A.jpg",
+        "https://amarainfinites.com/img/32B.jpg"
+        ],
+        "description": "High-quality dry green peas, perfect for dals, soups, and curries."
+      },
+    {
+        "name": "Bengal gram (unpolished)",
+        "category": "grocery",
+        "unit": "per kg",
+        "quantities": [
+          { "quantity": "50 kg", "price": 93 }
+        ],
+       "images": [
+        "https://amarainfinites.com/img/33A.jpg",
+        "https://amarainfinites.com/img/33B.jpg"
+        ],
+        "description": "Best used in making of dals, soups, and curries."
+      },
+    {
+        "name": "Bengal gram (polished)",
+        "category": "grocery",
+        "unit": "per kg",
+        "quantities": [
+          { "quantity": "50 kg", "price": 90 }
+        ],
+       "images": [
+        "https://amarainfinites.com/img/34A.jpg",
+        "https://amarainfinites.com/img/34B.jpg"
+        ],
+        "description": "Best used in making of dals, soups, and curries."
+      },
+    {
+        "name": "Green gram broken",
+        "category": "grocery",
+        "unit": "per kg",
+        "quantities": [
+          { "quantity": "30 kg", "price": 108 }
+        ],
+        "images": [
+        "https://amarainfinites.com/img/35A.jpg",
+        "https://amarainfinites.com/img/35B.jpg"
+        ],
+        "description": "Green gram is split, dehulled yellow lentils, commonly used in soups, curries, and dals. It cooks quickly, is easily digestible, and is rich in protein and fiber."
+      },
+    {
+        "name": "Black gram",
+        "category": "grocery",
+        "unit": "per kg",
+        "quantities": [
+          { "quantity": "50 kg", "price": 110 }
+        ],
+        "images": [
+        "https://amarainfinites.com/img/36A.jpg",
+        "https://amarainfinites.com/img/36B.jpg"
+        ],
+        "description": "Rich in protein, black gram, perfect for dals, curries, soups."
+      },
+    {
+        "name": "Black gram whole",
+        "category": "grocery",
+        "unit": "per kg",
+        "quantities": [
+          { "quantity": "50 kg", "price": 125 }
+        ],
+        "images": [
+        "https://amarainfinites.com/img/37A.jpg",
+        "https://amarainfinites.com/img/37B.jpg"
+        ],
+        "description": " Prefect for making traditional dishes like rice cake and idly. High in protein, fibre, and essential nutrients."
+      },
+    {
+        "name": "Green gram",
+        "category": "grocery",
+        "unit": "per kg",
+        "quantities": [
+          { "quantity": "50 kg", "price": 107 }
+        ],
+       "images": [
+        "https://amarainfinites.com/img/38A.jpg",
+        "https://amarainfinites.com/img/38B.jpg"
+        ],
+        "description": " Green gram, nutritious, versatile, perfect for soups, curries, and salads."
+      },
+    {
+        "name": "cow peas",
+        "category": "grocery",
+        "unit": "per kg",
+        "quantities": [
+          { "quantity": "30 kg", "price": 94 }
+        ],
+       "images": [
+        "https://amarainfinites.com/img/39A.jpg",
+        "https://amarainfinites.com/img/39B.jpg"
+        ],
+        "description": "Cow peas, protein-rich, ideal for curries, soups, and salads."
+      },
+    {
+        "name": "White chickpeas",
+        "category": "grocery",
+        "unit": "per kg",
+        "quantities": [
+          { "quantity": "30 kg", "price": 95 }
+        ],
+       "images": [
+        "https://amarainfinites.com/img/40A.jpg",
+        "https://amarainfinites.com/img/40B.jpg"
+        ],
+        "description": " White chickpeas, nutrient-dense, perfect for hummus, curries, and salads."
+      },
+    {
+        "name": "Black chickpeas ",
+        "category": "grocery",
+        "unit": "per kg",
+        "quantities": [
+          { "quantity": "30 kg", "price": 90 }
+        ],
+       "images": [
+        "https://amarainfinites.com/img/41A.jpg",
+        "https://amarainfinites.com/img/41B.jpg"
+        ],
+        "description": "Nutritious black chickpeas, great for curries, salads, and snacks."
+      },
+    {
+        "name": "Horse gram",
+        "category": "grocery",
+        "unit": "per kg",
+        "quantities": [
+          { "quantity": "50 kg", "price": 73 }
+        ],
+        "images": [
+        "https://amarainfinites.com/img/42A.jpg",
+        "https://amarainfinites.com/img/42B.jpg"
+        ],
+        "description": "Nutritious horse gram, ideal for dals, soups, and traditional dishes."
+      },
+      {
+        "name": "Tamarind seeded",
+        "category": "grocery",
+        "unit": "per kg",
+        "quantities": [
+          { "quantity": "30 kg", "price": 90 }
+        ],
+        "images": [
+        "https://amarainfinites.com/img/21A.jpg",
+        "https://amarainfinites.com/img/21B.jpg"
+        ],
+        "description": "Premium tamarind seeds, perfect for cooking, seasoning, or herbal remedies."
+      },
+    {
+        "name": "Tamarind seedless",
+        "category": "grocery",
+        "unit": "per kg",
+        "quantities": [
+          { "quantity": "40 kg", "price": 185 }
+        ],
+       "images": [
+        "https://amarainfinites.com/img/22A.jpg",
+        "https://amarainfinites.com/img/22B.jpg"
+        ],
+        "description": "Sweet, tangy seedless tamarind, perfect for cooking, sauces, and drinks."
+      },
+    {
+        "name": "Boiled rice",
+        "category": "grocery",
+        "unit": "per kg",
+        "quantities": [
+          { "quantity": "26 kg", "price": 43 }
+        ],
+       "images": [
+        "https://amarainfinites.com/img/43A.jpg",
+        "https://amarainfinites.com/img/43B.jpg"
+        ],
+        "description": "Premium boiled rice 045, fragrant, fluffy, perfect for everyday meals."
+      },
+    {
+        "name": "Broken rice",
+        "category": "grocery",
+        "unit": "per kg",
+        "quantities": [
+          { "quantity": "26 kg", "price": 39 }
+        ],
+        "images": [
+        "https://amarainfinites.com/img/44A.jpg",
+        "https://amarainfinites.com/img/44B.jpg"
+        ],
+        "description": "Broken rice, economical, versatile, perfect for soups, porridges, and dishes."
+      },
+    {
+        "name": "Idly rice",
+        "category": "grocery",
+        "unit": "per kg",
+        "quantities": [
+          { "quantity": "26 kg", "price": 43 }
+        ],
+        "images": [
+        "https://amarainfinites.com/img/45A.jpg",
+        "https://amarainfinites.com/img/45B.jpg"
+        ],
+        "description": "Idly rice, ideal for making soft, fluffy idly and dosa."
+      },
+    {
+        "name": "Raw rice",
+        "category": "grocery",
+        "unit": "per kg",
+        "quantities": [
+          { "quantity": "26 kg", "price": 41 }
+        ],
+        "images": [
+        "https://amarainfinites.com/img/46A.jpg",
+        "https://amarainfinites.com/img/46B.jpg"
+        ],
+        "description": "Raw rice, versatile and staple, perfect for cooking daily meals."
+      },
+    {
+        "name": "Seeraga samba rice",
+        "category": "grocery",
+        "unit": "per kg",
+        "quantities": [
+          { "quantity": "26 kg", "price": 92 }
+        ],
+        "images": [
+        "https://amarainfinites.com/img/47A.jpg",
+        "https://amarainfinites.com/img/47B.jpg"
+        ],
+        "description": " Seeraga Samba rice, flavourful and aromatic, ideal for traditional dishes."
+      },
+    {
+        "name": "Thuraiyur Seeraga samba rice ",
+        "category": "grocery",
+        "unit": "per kg",
+        "quantities": [
+          { "quantity": "26 kg", "price": 95 }
+        ],
+       "images": [
+        "https://amarainfinites.com/img/48A.jpg",
+        "https://amarainfinites.com/img/48B.jpg"
+        ],
+        "description": "Thuraiyur Seeraga Samba rice, aromatic, fragrant, perfect for biryanis and curries."
+      },
+    {
+        "name": "Basmati rice ",
+        "category": "grocery",
+        "unit": "per kg",
+        "quantities": [
+          { "quantity": "30 kg", "price": 105 }
+        ],
+        "images": [
+        "https://amarainfinites.com/img/49A.jpg",
+        "https://amarainfinites.com/img/49B.jpg"
+        ],
+        "description": "Basmati rice: aromatic, long-grain, fragrant, fluffy, traditionally grown in Asia."
+      },
+    {
+        "name": "Broken Basmati rice ",
+        "category": "grocery",
+        "unit": "per kg",
+        "quantities": [
+          { "quantity": "30 kg", "price": 63 }
+        ],
+        "images": [
+        "https://amarainfinites.com/img/50A.jpg",
+        "https://amarainfinites.com/img/50B.jpg"
+        ],
+        "description": "Broken basmati rice: affordable, aromatic, versatile, perfect for cooking."
+      },
+    {
+        "name": "Bullet rice ",
+        "category": "grocery",
+        "unit": "per kg",
+        "quantities": [
+          { "quantity": "26 kg", "price": 75 }
+        ],
+        "images": [
+        "https://amarainfinites.com/img/51A.jpg",
+        "https://amarainfinites.com/img/51B.jpg"
+        ],
+        "description": "Bullet rice: small, round grains, soft, quick-cooking, aromatic, versatile."
+      },
+    {
+        "name": "Thulasi rice",
+        "category": "grocery",
+        "unit": "per kg",
+        "quantities": [
+          { "quantity": "26 kg", "price": 75 }
+        ],
+       "images": [
+        "https://amarainfinites.com/img/52A.jpg",
+        "https://amarainfinites.com/img/52B.jpg"
+        ],
+        "description": "Thulasi rice: aromatic, medium-grain, soft, flavorful, commonly used in South India."
+      },
+    {
+        "name": "Sai Thulkan",
+        "category": "grocery",
+        "unit": "per kg",
+        "quantities": [
+          { "quantity": "30 kg", "price": 79 }
+        ],
+        "images": [
+        "https://amarainfinites.com/img/53A.jpg",
+        "https://amarainfinites.com/img/53B.jpg"
+        ],
+        "description": "Sai Thulkan: high-quality, aromatic, long-grain rice, fluffy, perfect for cooking."
+      },
+    {
+        "name": "Soap pod (Seeyakkai)",
+        "category": "grocery",
+        "unit": "per kg",
+        "quantities": [
+          { "quantity": "30 kg", "price": 125 }
+        ],
+        "images": [
+        "https://amarainfinites.com/img/54A.jpg",
+        "https://amarainfinites.com/img/54B.jpg"
+        ],
+        "description": "Soap pod (Seeyakkai): natural cleanser, foaming fruit, eco-friendly, used for hair and laundry."
+      },
+    {
+        "name": "Millet Muesli (Mix fruit)",
+        "category": "grocery",
+        "unit": "per kg",
+        "quantities": [
+          { "quantity": "5 kg", "price": 470 }
+        ],
+       "images": [
+        "https://amarainfinites.com/img/55A.jpg",
+        "https://amarainfinites.com/img/55B.jpg"
+        ],
+        "description": "Muesli (Mix fruit): nutritious, millets, oats, dried fruits, nuts, healthy breakfast option."
+      }, 
+    {
+        "name": "Millet Muesli (Honey)",
+        "category": "grocery",
+        "unit": "per kg",
+        "quantities": [
+          { "quantity": "5 kg", "price": 480 }
+        ],
+        "images": [
+        "https://amarainfinites.com/img/56A.jpg",
+        "https://amarainfinites.com/img/56B.jpg"
+        ],
+        "description": "Muesli (Honey): millets, oats, nuts, dried fruits, sweetened with natural honey."
+      },  
+    {
+        "name": "Millet Muesli (Chocolate)",
+        "category": "grocery",
+        "unit": "per kg",
+        "quantities": [
+          { "quantity": "5 kg", "price": 490 }
+        ],
+        "images": [
+        "https://amarainfinites.com/img/57A.jpeg",
+        "https://amarainfinites.com/img/57B.jpg"
+        ],
+        "description": "Muesli (Chocolate): millets, oats, nuts, dried fruits, blended with delicious chocolate pieces."
+      },
+    {
+        "name": "Millet Muesli (Strawberry)",
+        "category": "grocery",
+        "unit": "per kg",
+        "quantities": [
+          { "quantity": "5 kg", "price": 490 }
+        ],
+        "images": [
+        "https://amarainfinites.com/img/58A.jpg",
+        "https://amarainfinites.com/img/58B.jpg"
+        ],
+        "description": "Muesli (Strawberry): millets, oats, nuts, dried fruits, infused with sweet strawberry flavor."
+      },
+    {
+        "name": "Pearl Millet(uncleaned)",
+        "category": "grocery",
+        "unit": "per kg",
+        "quantities": [
+          { "quantity": "50 kg", "price": 32 }
+        ],
+       "images": [
+        "https://amarainfinites.com/img/60A.jpg",
+        "https://amarainfinites.com/img/60B.jpg"
+        ],
+        "description": "Pearl millet: nutritious, gluten-free grain, high in fiber and protein."
+      },
+    {
+        "name": "Pearl Millet",
+        "category": "grocery",
+        "unit": "per kg",
+        "quantities": [
+          { "quantity": "50 kg", "price": 38 }
+        ],
+      "images": [
+        "https://amarainfinites.com/img/61A.jpg",
+        "https://amarainfinites.com/img/61B.jpg"
+        ],
+        "description": "Pearl millet: nutritious, gluten-free grain, high in fiber and protein."
+      },
+    {
+        "name": "Ragi",
+        "category": "grocery",
+        "unit": "per kg",
+        "quantities": [
+          { "quantity": "50 kg", "price": 43 }
+        ],
+        "images": [
+        "https://amarainfinites.com/img/62A.jpg",
+        "https://amarainfinites.com/img/62B.jpg"
+        ],
+        "description": "Nutrient-dense, gluten-free millet, rich in calcium, fiber, and iron."
+      },
+    {
+        "name": "White Sorghum",
+        "category": "grocery",
+        "unit": "per kg",
+        "quantities": [
+          { "quantity": "50 kg", "price": 43 }
+        ],
+        "images": [
+        "https://amarainfinites.com/img/63A.jpg",
+        "https://amarainfinites.com/img/63B.jpg"
+        ],
+        "description": "Nutritious, gluten-free, high-fiber, versatile for various dishes."
+      },
+    {
+        "name": "Red Sorghum",
+        "category": "grocery",
+        "unit": "per kg",
+        "quantities": [
+          { "quantity": "50 kg", "price": 58 }
+        ],
+       "images": [
+        "https://amarainfinites.com/img/64A.jpg",
+        "https://amarainfinites.com/img/64B.jpg"
+        ],
+        "description": "Nutrient-rich, gluten-free, high-fiber grain, versatile for cooking."
+      },
+    {
+        "name": "Broad Beans",
+        "category": "grocery",
+        "unit": "per kg",
+        "quantities": [
+          { "quantity": "50 kg", "price": 135 }
+        ],
+       "images": [
+        "https://amarainfinites.com/img/65A.jpg",
+        "https://amarainfinites.com/img/65B.jpg"
+        ],
+        "description": "Protein-rich, nutritious, versatile legume, used in various dishes."
+      },
+    {
+        "name": "Moong gram",
+        "category": "grocery",
+        "unit": "per kg",
+        "quantities": [
+          { "quantity": "50 kg", "price": 93 }
+        ],
+       "images": [
+        "https://amarainfinites.com/img/66A.jpg",
+        "https://amarainfinites.com/img/66B.jpg"
+        ],
+        "description": "Nutritious, protein-rich, quick-cooking, easily digestible, versatile lentil."
+      },
+    {
+        "name": "White Chickpeas Big",
+        "category": "grocery",
+        "unit": "per kg",
+        "quantities": [
+          { "quantity": "50 kg", "price": 145 }
+        ],
+       "images": [
+        "https://amarainfinites.com/img/67A.jpg",
+        "https://amarainfinites.com/img/67B.jpg"
+        ],
+        "description": "Nutritious, high-protein, perfect for salads, stews, curries."
+      },
+    {
+        "name": "Coriander",
+        "category": "grocery",
+        "unit": "per kg",
+        "quantities": [
+          { "quantity": "40 kg", "price": 98 }
+        ],
+        "images": [
+        "https://amarainfinites.com/img/68A.jpg",
+        "https://amarainfinites.com/img/68B.jpg"
+        ],
+        "description": "Aromatic herb, used fresh or dried, enhances flavor in dishes."
+      },
+    {
+        "name": "Mustard Small",
+        "category": "grocery",
+        "unit": "per kg",
+        "quantities": [
+          { "quantity": "50 kg", "price": 77 }
+        ],
+       "images": [
+        "https://amarainfinites.com/img/69A.jpg",
+        "https://amarainfinites.com/img/69B.jpg"
+        ],
+        "description": "Tiny, flavorful seeds, used for seasoning, pickling, and cooking."
+      },
+    {
+        "name": "Mustard Big",
+        "category": "grocery",
+        "unit": "per kg",
+        "quantities": [
+          { "quantity": "50 kg", "price": 75 }
+        ],
+        "images": [
+        "https://amarainfinites.com/img/70A.jpg",
+        "https://amarainfinites.com/img/70B.jpg"
+        ],
+        "description": "Large seeds, aromatic, commonly used in cooking and seasoning."
+      },
+    {
+        "name": "Fenugreek",
+        "category": "grocery",
+        "unit": "per kg",
+        "quantities": [
+          { "quantity": "50 kg", "price": 74 }
+        ],
+        "images": [
+        "https://amarainfinites.com/img/71A.jpg",
+        "https://amarainfinites.com/img/71B.jpg"
+        ],
+        "description": "The seeds are rich in protein, fiber, and essential nutrients.Aromatic herb, bitter seeds, used in cooking and medicine."
+      },
+    {
+        "name": "Cumin",
+        "category": "grocery",
+        "unit": "per kg",
+        "quantities": [
+          { "quantity": "30 kg", "price": 290 }
+        ],
+        "images": [
+        "https://amarainfinites.com/img/72A.jpg",
+        "https://amarainfinites.com/img/72B.jpg"
+        ],
+        "description": "Aromatic, earthy spice, used in curries, soups, and seasonings"
+      },
+    {
+        "name": "Fennel Seeds",
+        "category": "grocery",
+        "unit": "per kg",
+        "quantities": [
+          { "quantity": "30 kg", "price": 115 }
+        ],
+        "images": [
+        "https://amarainfinites.com/img/73A.jpg",
+        "https://amarainfinites.com/img/73B.jpg"
+        ],
+        "description": "Aromatic, sweet, licorice-flavored, used in cooking, teas, remedies."
+      },
+    {
+        "name": "Cloves",
+        "category": "grocery",
+        "unit": "per kg",
+        "quantities": [
+          { "quantity": "10 kg", "price": 860 }
+        ],
+        "images": [
+        "https://amarainfinites.com/img/74A.jpg",
+        "https://amarainfinites.com/img/74B.jpg"
+        ],
+        "description": "Aromatic, spicy, pungent buds, used in cooking and medicine."
+      },
+      {
+        "name": "Cinnamon",
+        "category": "grocery",
+        "unit": "per kg",
+        "quantities": [
+          { "quantity": "10 kg", "price": 255 }
+        ],
+       "images": [
+        "https://amarainfinites.com/img/75A.jpg",
+        "https://amarainfinites.com/img/75B.jpg"
+        ],
+        "description": "Fragrant spice, sweet and warm, used in cooking, desserts and curries."
+      },
+      {
+        "name": "Pepper",
+        "category": "grocery",
+        "unit": "per kg",
+        "quantities": [
+          { "quantity": "10 kg", "price": 690 }
+        ],
+        "images": [
+        "https://amarainfinites.com/img/76A.jpg",
+        "https://amarainfinites.com/img/76B.jpg"
+        ],
+        "description": "Pepper: spicy, aromatic, versatile seasoning, adds heat and flavor to dishes."
+      },
+    {
+        "name": "Urad gram",
+        "category": "grocery",
+        "unit": "per kg",
+        "quantities": [
+          { "quantity": "50 kg", "price": 125 }
+        ],
+        "images": [
+        "https://amarainfinites.com/img/77A.jpg",
+        "https://amarainfinites.com/img/77B.jpg"
+        ],
+        "description": "Black gram: protein-rich, mild-flavored lentil, used in seasoning, batter and snacks."
+      },
+    {
+        "name": "Star Anise",
+        "category": "grocery",
+        "unit": "per kg",
+        "quantities": [
+          { "quantity": "10 kg", "price": 640 }
+        ],
+        "images": [
+        "https://amarainfinites.com/img/78A.jpg",
+        "https://amarainfinites.com/img/78B.jpg"
+        ],
+        "description": "Star anise: fragrant, star-shaped spice, adds sweet, licorice flavor to dishes."
+      },
+    {
+        "name": "Poppy Seeds",
+        "category": "grocery",
+        "unit": "per kg",
+        "quantities": [
+          { "quantity": "5 kg", "price": 1365 }
+        ],
+       "images": [
+        "https://amarainfinites.com/img/79A.jpg",
+        "https://amarainfinites.com/img/79B.jpg"
+        ],
+        "description": "Poppy seeds: small, nutty, used in baking, cooking, and herbal remedies."
+      },
+    {
+        "name": "Kapok Buds",
+        "category": "grocery",
+        "unit": "per kg",
+        "quantities": [
+          { "quantity": "10 kg", "price": 235 }
+        ],
+        "images": [
+        "https://amarainfinites.com/img/80A.jpg",
+        "https://amarainfinites.com/img/80B.jpg"
+        ],
+        "description": "Kapok buds: fragrant, used in traditional medicine, herbal remedies, and teas."
+      },
+    {
+        "name": "Red chickpeas",
+        "category": "grocery",
+        "unit": "per kg",
+        "quantities": [
+          { "quantity": "50 kg", "price": 88 }
+        ],
+       "images": [
+        "https://amarainfinites.com/img/81A.jpg",
+        "https://amarainfinites.com/img/81B.jpg"
+        ],
+        "description": "Red chickpeas: small, nutty, rich in protein, used in curries, salads."
+      },
+    {
+        "name": "Red chilly",
+        "category": "grocery",
+        "unit": "per kg",
+        "quantities": [
+          { "quantity": "20 kg", "price": 175 }
+        ],
+        "images": [
+        "https://amarainfinites.com/img/82A.jpg",
+        "https://amarainfinites.com/img/82B.jpg"
+        ],
+        "description": "Red chilly: fiery spice, adds heat and flavor, commonly used in cooking, sauces, and condiments."
+      },
+    {
+        "name": "Kashmir Red Chilly",
+        "category": "grocery",
+        "unit": "per kg",
+        "quantities": [
+          { "quantity": "30 kg", "price": 250 }
+        ],
+       "images": [
+        "https://amarainfinites.com/img/83A.jpg",
+        "https://amarainfinites.com/img/83B.jpg"
+        ],
+        "description": "Kashmir red chili: mild, aromatic, bright red spice, enhances flavor, used in Indian cuisine and curries.."
+      },
+    {
+        "name": "Gram Flour",
+        "category": "grocery",
+        "unit": "per kg",
+        "quantities": [
+          { "quantity": "10 kg", "price": 112 }
+        ],
+       "images": [
+        "https://amarainfinites.com/img/84A.jpg",
+        "https://amarainfinites.com/img/84B.jpg"
+        ],
+        "description": "Gram flour: finely ground flour from chickpeas, used in baking, frying, and making savory dishes."
+      },
+      {
+        "name": "Cashew W240",
+        "category": "grocery",
+        "unit": "per kg",
+        "quantities": [
+          { "quantity": "10 kg", "price": 890 }
+        ],
+        "images": [
+        "https://amarainfinites.com/img/1A.jpg",
+        "https://amarainfinites.com/img/1B.jpg"
+        ],
+        "description": "Premium cashews: crunchy, fresh, and perfect for snacking or cooking."
+      },
+    {
+        "name": "Cashew W320",
+        "category": "grocery",
+        "unit": "per kg",
+        "quantities": [
+          { "quantity": "10 kg", "price": 810 }
+        ],
+        "images": [
+        "https://amarainfinites.com/img/2A.jpg",
+        "https://amarainfinites.com/img/2B.jpg"
+        ],
+        "description": "Premium cashews: crunchy, fresh, and perfect for snacking or cooking."
+      },
+    {
+        "name": "Cashew 4 piece",
+        "category": "grocery",
+        "unit": "per kg",
+        "quantities": [
+          { "quantity": "10 kg", "price": 730 }
+        ],
+        "images": [
+        "https://amarainfinites.com/img/3A.jpg",
+        "https://amarainfinites.com/img/3B.jpg"
+        ],
+        "description": "Broken premium cashew pieces, fresh, crunchy, and perfect for cooking."
+      },
+    {
+        "name": "Cashew SP",
+        "category": "grocery",
+        "unit": "per kg",
+        "quantities": [
+          { "quantity": "15 kg", "price": 610 }
+        ],
+        "images": [
+        "https://amarainfinites.com/img/4A.jpg",
+        "https://amarainfinites.com/img/4B.jpg"
+        ],
+        "description": "Cashew split pieces, crunchy, flavourful, and ideal for cooking or snacking."
+      },
+    {
+        "name": "Cashew SSP",
+        "category": "grocery",
+        "unit": "per kg",
+        "quantities": [
+          { "quantity": "15 kg", "price": 360 }
+        ],
+        "images": [
+        "https://amarainfinites.com/img/5A.jpg",
+        "https://amarainfinites.com/img/5B.jpg"
+        ],
+        "description": "Cashew split pieces, crunchy, flavourful, and ideal for cooking or snacking."
+      },
+    {
+        "name": "Almond",
+        "category": "grocery",
+        "unit": "per kg",
+        "quantities": [
+          { "quantity": "10 kg", "price": 860 }
+        ],
+        "images": [
+        "https://amarainfinites.com/img/6A.jpg",
+        "https://amarainfinites.com/img/6B.jpg"
+        ],
+        "description": "Almonds are nutrient-rich, crunchy nuts, great for snacking and cooking."
+      },
+    {
+        "name": "Pistachio",
+        "category": "grocery",
+        "unit": "per kg",
+        "quantities": [
+          { "quantity": "10 kg", "price": 1090 }
+        ],
+        "images": [
+        "https://amarainfinites.com/img/7A.jpg",
+        "https://amarainfinites.com/img/7B.jpg"
+        ],
+        "description": "Pistachio: premium quality pistachios, crunchy, flavourful, and nutrient-rich."
+      },
+    {
+        "name": "Pistachio without shell ",
+        "category": "grocery",
+        "unit": "per kg",
+        "quantities": [
+          { "quantity": "10 kg", "price": 1570 }
+        ],
+        "images": [
+        "https://amarainfinites.com/img/8A.jpg",
+        "https://amarainfinites.com/img/8B.jpg"
+        ],
+        "description": "Shell-free pistachios: convenient, crunchy, nutritious, and perfect for snacking or cooking."
+      },
+    {
+        "name": "Raisin ",
+        "category": "grocery",
+        "unit": "per kg",
+        "quantities": [
+          { "quantity": "15 kg", "price": 255 }
+        ],
+        "images": [
+        "https://amarainfinites.com/img/9A.jpg",
+        "https://amarainfinites.com/img/9B.jpg"
+        ],
+        "description": " A raisin is a dried grape, sweet, chewy, and nutritious."
+      },
+    {
+        "name": "Tunisian dates ",
+        "category": "grocery",
+        "unit": "per kg",
+        "quantities": [
+          { "quantity": "15 kg", "price": 450}
+        ],
+        "images": [
+        "https://amarainfinites.com/img/10A.jpg",
+        "https://amarainfinites.com/img/10B.jpg"
+        ],
+        
+        "description": "Premium Tunisian dates, naturally sweet, ideal for snacking and desserts."
+      },
+    {
+        "name": "Dates seedless ",
+        "category": "grocery",
+        "unit": "per kg",
+        "quantities": [
+          { "quantity": "25 kg", "price": 125 }
+        ],
+       "images": [
+        "https://amarainfinites.com/img/11A.jpg",
+        "https://amarainfinites.com/img/11B.jpg"
+        ],
+        "description": "Delicious seedless dates, naturally sweet, perfect for snacks or recipes."
+      },
+    {
+        "name": "Dates seeded ",
+        "category": "grocery",
+        "unit": "per kg",
+        "quantities": [
+          { "quantity": "25 kg", "price": 105 }
+        ],
+        "images": [
+        "https://amarainfinites.com/img/12A.jpg",
+        "https://amarainfinites.com/img/12B.jpg"
+        ],
+        "description": "Naturally sweet, rich seeded dates, perfect for snacking and recipes."
+      },
+    {
+        "name": "Black dates premium",
+        "category": "grocery",
+        "unit": "per kg",
+        "quantities": [
+          { "quantity": "10 kg", "price": 915 }
+        ],
+        "images": [
+        "https://amarainfinites.com/img/13A.jpg",
+        "https://amarainfinites.com/img/13B.jpg"
+        ],
+        "description": "Fresh black dates, sweet and chewy, ideal for snacks or desserts."
+      },
+    {
+        "name": "Black dates",
+        "category": "grocery",
+        "unit": "per kg",
+        "quantities": [
+          { "quantity": "10 kg", "price": 200 }
+        ],
+        "images": [
+        "https://amarainfinites.com/img/14A.jpg",
+        "https://amarainfinites.com/img/14B.jpg"
+        ],
+        "description": "Fresh black dates, sweet and chewy, ideal for snacks or desserts."
+      },
+    {
+        "name": "Fig",
+        "category": "grocery",
+        "unit": "per kg",
+        "quantities": [
+          { "quantity": "10 kg", "price": 810 }
+        ],
+       "images": [
+        "https://amarainfinites.com/img/15A.jpg",
+        "https://amarainfinites.com/img/15B.jpg"
+        ],
+        "description": "Premium figs, naturally sweet, perfect for healthy snacking or baking."
+      },
+    {
+        "name": "Apricot",
+        "category": "grocery",
+        "unit": "per 200g",
+        "quantities": [
+          { "quantity": "36 pieces", "price": 190 }
+        ],
+        "images": [
+        "https://amarainfinites.com/img/16A.jpg",
+        "https://amarainfinites.com/img/16B.jpg"
+        ],
+        "description": "Juicy, dried apricots, naturally sweet, perfect for snacks or desserts."
+      },
+    {
+        "name": "Cherry",
+        "category": "grocery",
+        "unit": "per kg",
+        "quantities": [
+          { "quantity": "15 kg", "price": 195 }
+        ],
+        "images": [
+        "https://amarainfinites.com/img/17A.jpg",
+        "https://amarainfinites.com/img/17B.jpg"
+        ],
+        "description": "Sweet, tart cherries, perfect for snacking, baking, or making jams."
+      },
+    {
+        "name": "Blueberry",
+        "category": "grocery",
+        "unit": "per kg",
+        "quantities": [
+          { "quantity": "10 kg", "price": 1420 }
+        ],
+        "images": [
+        "https://amarainfinites.com/img/18A.jpg",
+        "https://amarainfinites.com/img/18B.jpg"
+        ],
+        "description": "Delicious dried blueberries, naturally sweet, perfect for snacking or recipes."
+      },
+    {
+        "name": "Blackberry",
+        "category": "grocery",
+        "unit": "per kg",
+        "quantities": [
+          { "quantity": "10 kg", "price": 710 }
+        ],
+        "images": [
+        "https://amarainfinites.com/img/19A.jpg",
+        "https://amarainfinites.com/img/19B.jpg"
+        ],
+        "description": "Sweet, tangy dried blackberries, perfect for snacking, baking, or smoothies."
+      },
+    {
+        "name": "Cranberry",
+        "category": "grocery",
+        "unit": "per kg",
+        "quantities": [
+          { "quantity": "10 kg", "price": 730 }
+        ],
+       "images": [
+        "https://amarainfinites.com/img/20A.jpg",
+        "https://amarainfinites.com/img/20B.jpg"
+        ],
+        "description": "Delicious dried cranberries, naturally sweet, perfect for snacks or recipes."
+      },
+    {
+        "name": "Sunflower Oil",
+        "category": "grocery",
+        "unit": "per litre",
+        "quantities": [
+          { "quantity": "10 ltr", "price": 140 }
+        ],
+        "images": [
+        "https://amarainfinites.com/img/85A.jpg",
+        "https://amarainfinites.com/img/85B.jpg"
+        ],
+        "description": "Sunflower oil: light oil rich in healthy fats, neutral-flavored oil, rich in vitamin E, ideal for frying, cooking, and salads.."
+      },
+    {
+        "name": "Groundnut Oil",
+        "category": "grocery",
+        "unit": "per litre",
+        "quantities": [
+          { "quantity": "10 ltr", "price": 154 }
+        ],
+        "images": [
+        "https://amarainfinites.com/img/86A.jpg",
+        "https://amarainfinites.com/img/86B.jpg"
+        ],
+        "description": "Groundnut oil: mild, versatile oil, rich in healthy fats, perfect for frying, cooking, and dressings."
+      },
+    {
+        "name": "Gingelly Oil",
+        "category": "grocery",
+        "unit": "per litre",
+        "quantities": [
+          { "quantity": "10 ltr", "price": 294 }
+        ],
+        "images": [
+        "https://amarainfinites.com/img/87A.jpg",
+        "https://amarainfinites.com/img/87B.jpg"
+        ],
+        "description": "Gingelly oil: sesame oil with rich flavor, commonly used in South Indian cooking and traditional dishes."
+      },
+    {
+        "name": "Castor Oil",
+        "category": "grocery",
+        "unit": "per litre",
+        "quantities": [
+          { "quantity": "10 ltr", "price": 195 }
+        ],
+       "images": [
+        "https://amarainfinites.com/img/88A.jpg",
+        "https://amarainfinites.com/img/88B.jpg"
+        ],
+        "description": "Castor oil: thick, versatile oil, used in beauty treatments, medicine, and as a natural lubricant.."
+      },
+    {
+        "name": "Coconut Oil",
+        "category": "grocery",
+        "unit": "per kg",
+        "quantities": [
+          { "quantity": "15 kg", "price": 251 }
+        ],
+       "images": [
+        "https://amarainfinites.com/img/89A.jpg",
+        "https://amarainfinites.com/img/89B.jpg"
+        ],
+        "description": "Coconut oil: versatile oil, rich in healthy fats, used for cooking, skincare, haircare, and health."
+      },
+    {
+        "name": "Palm Oil",
+        "category": "grocery",
+        "unit": "per kg",
+        "quantities": [
+          { "quantity": "15 kg", "price": 161 }
+        ],
+        "images": [
+        "https://amarainfinites.com/img/90A.jpg",
+        "https://amarainfinites.com/img/90B.jpg"
+        ],
+        "description": "Palm oil: affordable, versatile cooking oil, rich in saturated fats, used in food and cosmetics."
+      },
+    {
+        "name": "Mustard Oil",
+        "category": "grocery",
+        "unit": "per kg",
+        "quantities": [
+          { "quantity": "15 kg", "price": 198 }
+        ],
+        "images": [
+        "https://amarainfinites.com/img/91A.jpg",
+        "https://amarainfinites.com/img/91B.jpg"
+        ],
+        "description": "Mustard oil: pungent, flavorful oil, commonly used in Indian cooking, known for health benefits and aroma."
+      },
+    {
+        "name": "Rice Barn Oil",
+        "category": "grocery",
+        "unit": "per kg",
+        "quantities": [
+          { "quantity": "15 kg", "price": 158 }
+        ],
+       "images": [
+        "https://amarainfinites.com/img/92A.jpg",
+        "https://amarainfinites.com/img/92B.jpg"
+        ],
+        "description": "Rice bran oil: light, heart-healthy oil, rich in antioxidants, ideal for frying, sauteing, and cooking."
+      },
+    {
+        "name": "Cottonseed Oil",
+        "category": "grocery",
+        "unit": "per kg",
+        "quantities": [
+          { "quantity": "15 kg", "price": 161 }
+        ],
+        "images": [
+        "https://amarainfinites.com/img/93A.jpg",
+        "https://amarainfinites.com/img/93B.jpg"
+        ],
+        "description": "Cottonseed oil: light, neutral-flavored oil, rich in polyunsaturated fats, ideal for frying and cooking."
+      },
+    {
+        "name": "Groundnut Oil Refined",
+        "category": "grocery",
+        "unit": "per kg",
+        "quantities": [
+          { "quantity": "15 kg", "price":202 }
+        ],
+       "images": [
+        "https://amarainfinites.com/img/94A.jpg",
+        "https://amarainfinites.com/img/94B.jpg"
+        ],
+        "description": "Groundnut Oil Refined: light, neutral-flavored oil, high smoke point, ideal for frying, cooking, and dressings."
+      },
+    {
+        "name": "Groundnut Oil Unrefined",
+        "category": "grocery",
+        "unit": "per kg",
+        "quantities": [
+          { "quantity": "15 kg", "price": 182 }
+        ],
+        "images": [
+        "https://amarainfinites.com/img/95A.jpg",
+        "https://amarainfinites.com/img/95B.jpg"
+        ],
+        "description": "Groundnut Oil Unrefined: cold-pressed, full of natural flavors, rich in nutrients, ideal for healthy cooking."
+      },
+    {
+        "name": "Poongam Oil",
+        "category": "grocery",
+        "unit": "per kg",
+        "quantities": [
+          { "quantity": "15 kg", "price": 178 }
+        ],
+        "images": [
+        "https://amarainfinites.com/img/96A.jpg",
+        "https://amarainfinites.com/img/96B.jpg"
+        ],
+        "description": "Poongam oil: traditional oil, derived from neem tree seeds, used for medicinal, skincare, and haircare purposes."
+      },
+    {
+        "name": "Mahua Oil",
+        "category": "grocery",
+        "unit": "per kg",
+        "quantities": [
+          { "quantity": "15 kg", "price": 158 }
+        ],
+        "images": [
+        "https://amarainfinites.com/img/97A.jpg",
+        "https://amarainfinites.com/img/97B.jpg"
+        ],
+        "description": "Mahua Illupai Oil: extracted from mahua seeds, used in skincare, haircare, and traditional medicinal treatments."
+      },
+    {
+        "name": "Neem Oil",
+        "category": "grocery",
+        "unit": "per kg",
+        "quantities": [
+          { "quantity": "15 kg", "price": 272 }
+        ],
+       "images": [
+        "https://amarainfinites.com/img/98A.jpg",
+        "https://amarainfinites.com/img/98B.jpg"
+        ],
+        "description": "Neem oil: natural, powerful oil with antifungal, antibacterial properties, used in skincare, haircare, and remedies."
+      },
+    {
+        "name": "Dheepam Oil",
+        "category": "grocery",
+        "unit": "per kg",
+        "quantities": [
+          { "quantity": "15 kg", "price": 158 }
+        ],
+        "images": [
+        "https://amarainfinites.com/img/99A.jpg",
+        "https://amarainfinites.com/img/99B.jpg"
+        ],
+        "description": "Dheepam oil: aromatic, traditionally used for lighting lamps, offering a soothing fragrance and spiritual significance."
+      },
+    {
+        "name": "Ghee",
+        "category": "grocery",
+        "unit": "per kg",
+        "quantities": [
+          { "quantity": "10 kg", "price": 715 }
+        ],
+       "images": [
+        "https://amarainfinites.com/img/100A.jpg",
+        "https://amarainfinites.com/img/100B.jpg"
+        ],
+        "description": "Ghee: clarified butter with rich flavor, commonly used in Indian cooking, baking, and traditional remedies."
+      },
+    {
+        "name": "Vanaspathi ",
+        "category": "grocery",
+        "unit": "per litre",
+        "quantities": [
+          { "quantity": "25 ltr", "price": 165 }
+        ],
+       "images": [
+        "https://amarainfinites.com/img/101A.jpg",
+        "https://amarainfinites.com/img/101B.jpg"
+        ],
+        "description": "Vanaspati: hydrogenated vegetable oil, commonly used in cooking and baking, with a rich, creamy texture."
+      },
+    {
+        "name": "Himachal Garlic",
+        "category": "grocery",
+        "unit": "per kg",
+        "quantities": [
+          { "quantity": "40 kg", "price": 375 }
+        ],
+        "images": [
+        "https://amarainfinites.com/img/102A.jpg",
+        "https://amarainfinites.com/img/102B.jpg"
+        ],
+        "description": "Himachal garlic: aromatic, flavorful garlic grown in Himachal Pradesh, known for its strong taste and quality."
+      },
+    {
+        "name": "Country Garlic",
+        "category": "grocery",
+        "unit": "per kg",
+        "quantities": [
+          { "quantity": "40 kg", "price": 305 }
+        ],
+       "images": [
+        "https://amarainfinites.com/img/103A.jpg",
+        "https://amarainfinites.com/img/103B.jpg"
+        ],
+        "description": "Country garlic: potent, aromatic garlic variety, known for strong flavor, health benefits, and medicinal properties."
+      },
+    {
+        "name": "Large Garlic Bulbs",
+        "category": "grocery",
+        "unit": "per kg",
+        "quantities": [
+          { "quantity": "40 kg", "price": 325 }
+        ],
+        "images": [
+        "https://amarainfinites.com/img/104A.jpg",
+        "https://amarainfinites.com/img/104B.jpg"
+        ],
+        "description": "Large garlic bulbs: bigger cloves, milder flavor, easier to peel, used in various cooking applications."
+      },
+    {
+        "name": "Small Garlic Bulbs",
+        "category": "grocery",
+        "unit": "per kg",
+        "quantities": [
+          { "quantity": "40 kg", "price": 255 }
+        ],
+       "images": [
+        "https://amarainfinites.com/img/105A.jpg",
+        "https://amarainfinites.com/img/105B.jpg"
+        ],
+        "description": "Small garlic bulbs: intense flavor, aromatic, often used in traditional dishes for their strong, pungent taste."
+      },
+    {
+        "name": "Papads",
+        "category": "grocery",
+        "unit": "per kg",
+        "quantities": [
+          { "quantity": "24 kg", "price": 100 }
+        ],
+       "images": [
+        "https://amarainfinites.com/img/106A.jpg",
+        "https://amarainfinites.com/img/106B.jpg"
+        ],
+        "description": "Papads: crispy, thin snacks made from lentils or rice flour, served as appetizers or side dishes."
+      },
+      {
+        "name": "Courier Bags (White)",
+        "category": "Packaging",
+        "unit": "per piece",
+        "quantities": [
+          { "quantity": "100 pieces", "price": 2.5 },
+          { "quantity": "500 pieces", "price": 2 },
+          { "quantity": "1000 pieces", "price": 1.8 }
+        ],
+        "images": [
+        "https://amarainfinites.com/img/500.jpg",
+        "https://amarainfinites.com/img/500A.jpg"   
+        ],
+        "description": "White courier bags: durable, lightweight, waterproof bags for secure packaging and shipping of parcels and documents."
+     },
+     {
+        "name": "Courier Bags (Thin)",
+        "category": "Packaging",
+        "unit": "per piece",
+        "quantities": [
+          { "quantity": "100 pieces", "price": 3.2 },
+          { "quantity": "500 pieces", "price": 2.8 },
+          { "quantity": "1000 pieces", "price": 2.5 }
+        ],
+        "images": [
+            "https://amarainfinites.com/img/501.jpg",
+            "https://amarainfinites.com/img/501A.jpg"   
+            ],
+        "description": "Thin courier bags: lightweight, cost-effective, durable, used for packaging documents, small items, and lightweight shipments."
+     },
+     {
+        "name": "Courier Bags (Amazon)",
+        "category": "Packaging",
+        "unit": "per piece",
+        "quantities": [
+          { "quantity": "100 pieces", "price": 3 },
+          { "quantity": "500 pieces", "price": 2.2 },
+          { "quantity": "1000 pieces", "price": 2 }
+        ],
+        "images": [
+            "https://amarainfinites.com/img/502.jpg",
+            "https://amarainfinites.com/img/502A.jpg" 
+            ],
+        "description": "Amazon courier bags: strong, durable, waterproof bags designed for secure packaging and shipping of parcels."
+     },
+     {
+        "name": "Courier Bags (Bubble Safe)",
+        "category": "Packaging",
+        "unit": "per piece",
+        "quantities": [
+          { "quantity": "100 pieces", "price": 6.5 },
+          { "quantity": "500 pieces", "price": 6 },
+          { "quantity": "1000 pieces", "price": 5.7 }
+        ],
+        "images": [
+            "https://amarainfinites.com/img/503.jpg",
+            "https://amarainfinites.com/img/503A.jpg"   
+            ],
+        "description": "Courier bags (bubble safe): padded with bubble wrap, providing extra protection for fragile items during shipping."
+     },
+     {
+        "name": "Courier Bags (With Pod)",
+        "category": "Packaging",
+        "unit": "per piece",
+        "quantities": [
+          { "quantity": "100 pieces", "price": 3.5 },
+          { "quantity": "500 pieces", "price": 3 },
+          { "quantity": "1000 pieces", "price": 2.7 }
+        ],
+        "images": [
+            "https://amarainfinites.com/img/504.jpg",
+            "https://amarainfinites.com/img/504A.jpg"  
+            ],
+        "description": "Courier bags (with pod): secure bags featuring a tamper-evident pod for added protection and tracking."
+     },
+     {
+        "name": "Courier Bags (Without Pod)",
+        "category": "Packaging",
+        "unit": "per piece",
+        "quantities": [
+          { "quantity": "100 pieces", "price": 2.2 },
+          { "quantity": "500 pieces", "price": 2 },
+          { "quantity": "1000 pieces", "price": 1.7 }
+        ],
+        "images": [
+            "https://amarainfinites.com/img/505.jpg",
+            "https://amarainfinites.com/img/505A.jpg"    
+            ],
+        "description": "Courier bags (without pod): durable, lightweight, secure packaging for shipping, without tamper-evident features or integrated pods."
+     },
+     {
+        "name": "Box (7x4x3 inches)",
+        "category": "Packaging",
+        "unit": "per piece",
+        "quantities": [
+          { "quantity": "100 pieces", "price": 9 },
+          { "quantity": "500 pieces", "price": 8.8 },
+          { "quantity": "1000 pieces", "price": 8.6 }
+        ],
+        "images": [
+            "https://amarainfinites.com/img/506.jpg",
+            "https://amarainfinites.com/img/506A.jpg"    
+            ],
+        "description": "Box (7x4x3 inches): small, durable box, perfect for packaging, storing small items, gifts, or accessories."
+     },
+     {
+        "name": "Box (10x9x3 inches)",
+        "category": "Packaging",
+        "unit": "per piece",
+        "quantities": [
+          { "quantity": "100 pieces", "price": 20 },
+          { "quantity": "500 pieces", "price": 19.5 },
+          { "quantity": "1000 pieces", "price": 19 }
+        ],
+        "images": [
+            "https://amarainfinites.com/img/507.jpg",
+            "https://amarainfinites.com/img/507A.jpg"   
+            ],
+        "description": "Box (10x9x3 inches): medium-sized, sturdy box, ideal for packaging, shipping, and storing various items securely."
+     },
+     {
+        "name": "Box (16x12x12 inches)",
+        "category": "Packaging",
+        "unit": "per piece",
+        "quantities": [
+          { "quantity": "100 pieces", "price": 48 },
+          { "quantity": "500 pieces", "price": 47.4 },
+          { "quantity": "1000 pieces", "price": 46.8 }
+        ],
+        "images": [
+            "https://amarainfinites.com/img/508.jpg",
+            "https://amarainfinites.com/img/508A.jpg"    
+            ],
+        "description": "Box (16x12x12 inches): large, strong box, ideal for shipping, storing bulky items, or packaging goods securely."
+     },
+     {
+        "name": "Clear Tape",
+        "category": "Packaging",
+        "unit": "per piece",
+        "quantities": [
+          { "quantity": "5 pieces", "price": 65 },
+          { "quantity": "10 pieces", "price": 63 },
+          { "quantity": "50 pieces", "price": 60 }
+        ],
+        "images": [
+            "https://amarainfinites.com/img/509.jpg",
+            "https://amarainfinites.com/img/509A.jpg"    
+            ],
+        "description": "Clear tape: transparent, strong adhesive tape, perfect for packaging, sealing, and general-purpose household or office use."
+     },
+     {
+        "name": "Gum Tape",
+        "category": "Packaging",
+        "unit": "per piece",
+        "quantities": [
+          { "quantity": "5 pieces", "price": 65 },
+          { "quantity": "10 pieces", "price": 63 },
+          { "quantity": "50 pieces", "price": 60 }
+        ],
+        "images": [
+            "https://amarainfinites.com/img/510.jpg",
+            "https://amarainfinites.com/img/510A.jpg"    
+            ],
+        "description": "Gum tape: strong adhesive tape, ideal for sealing boxes, packaging, and securing items during shipping."
+     },
+     {
+        "name": "Label (10x15 cm)",
+        "category": "Packaging",
+        "unit": "per piece",
+        "quantities": [
+          { "quantity": "1000 pieces", "price": 1 },
+          { "quantity": "500 0pieces", "price": 0.9 },
+          { "quantity": "10000 pieces", "price": 0.75 }
+        ],
+        "images": [
+            "https://amarainfinites.com/img/511.jpg",
+            "https://amarainfinites.com/img/511A.jpg"    
+            ],
+        "description": "Label (10x15cm): durable, large-sized labels, perfect for packaging, branding, addressing, or product identification purposes."
+     },
+     {
+        "name": "Stand Up Pouch(Transparent)",
+        "category": "Packaging",
+        "unit": "per piece",
+        "quantities": [
+          { "quantity": "100 pieces", "price": 5 },
+          { "quantity": "500 pieces", "price": 4.6 },
+          { "quantity": "1000 pieces", "price": 4 }
+        ],
+        "images": [
+            "https://amarainfinites.com/img/512.jpg"   
+            ],
+        "description": "Stand Up Pouch (Transparent): clear, resealable packaging, perfect for displaying and preserving products with visibility."
+     },
+     {
+        "name": "Stand Up Pouch (Transparent zipper)",
+        "category": "Packaging",
+        "unit": "per piece",
+        "quantities": [
+          { "quantity": "100 pieces", "price": 5.4 },
+          { "quantity": "500 pieces", "price": 5 },
+          { "quantity": "1000 pieces", "price": 4.4 }
+        ],
+        "images": [
+            "https://amarainfinites.com/img/513.jpg"   
+            ],
+        "description": "Stand Up Pouch (Transparent Zipper): resealable, clear packaging with zipper, ideal for storing and showcasing products."
+     },
+     {
+        "name": "Stand Up Pouch (One Side Transparent) ",
+        "category": "Packaging",
+        "unit": "per piece",
+        "quantities": [
+          { "quantity": "100 pieces", "price": 5.8 },
+          { "quantity": "500 pieces", "price": 5.1 },
+          { "quantity": "1000 pieces", "price": 4.5 }
+        ],
+        "images": [
+            "https://amarainfinites.com/img/514.jpg"  
+            ],
+        "description": "Stand Up Pouch (One Side Transparent): clear front, opaque back, resealable pouch for showcasing and preserving products."
+     },
+     {
+        "name": "Stand Up Pouch (Matte White)",
+        "category": "Packaging",
+        "unit": "per piece",
+        "quantities": [
+          { "quantity": "100 pieces", "price": 5.3 },
+          { "quantity": "500 pieces", "price": 4.7 },
+          { "quantity": "1000 pieces", "price": 4.2 }
+        ],
+        "images": [
+            "https://amarainfinites.com/img/515.jpg"   
+            ],
+        "description": "Stand Up Pouch (Matte White): sleek, elegant matte white pouch, resealable, ideal for premium product packaging."
+     },
+     {
+        "name": "Stand Up Pouch (Matte Black)",
+        "category": "Packaging",
+        "unit": "per piece",
+        "quantities": [
+          { "quantity": "100 pieces", "price": 5.6 },
+          { "quantity": "500 pieces", "price": 5.1 },
+          { "quantity": "1000 pieces", "price": 4.6 }
+        ],
+        "images": [
+            "https://amarainfinites.com/img/516.jpg",
+            "https://amarainfinites.com/img/516A.jpg"   
+            ],
+        "description": "Stand Up Pouch (Matte Black): stylish, durable, resealable pouch with matte black finish, ideal for premium packaging."
+     },
+     {
+        "name": "Stand Up Pouch (Matte Red)",
+        "category": "Packaging",
+        "unit": "per piece",
+        "quantities": [
+          { "quantity": "100 pieces", "price": 6 },
+          { "quantity": "500 pieces", "price": 5.2 },
+          { "quantity": "1000 pieces", "price": 4.7 }
+        ],
+        "images": [
+            "https://amarainfinites.com/img/517.jpg"    
+            ],
+        "description": "Stand up pouch: flexible, resealable packaging with a flat bottom, ideal for storing and displaying products."
+     },
+     {
+        "name": "Stand Up Pouch(Matte Blue)",
+        "category": "Packaging",
+        "unit": "per piece",
+        "quantities": [
+          { "quantity": "100 pieces", "price": 6.1 },
+          { "quantity": "500 pieces", "price": 5.3 },
+          { "quantity": "1000 pieces", "price": 4.8 }
+        ],
+        "images": [
+            "https://amarainfinites.com/img/518.jpg"   
+            ],
+        "description": "Stand Up Pouch (Matte Blue): elegant, resealable pouch with matte blue finish, perfect for premium packaging."
+     },
+     {
+        "name": "Stand Up Pouch (Matte Green)",
+        "category": "Packaging",
+        "unit": "per piece",
+        "quantities": [
+          { "quantity": "100 pieces", "price": 6.2 },
+          { "quantity": "500 pieces", "price": 5.4 },
+          { "quantity": "1000 pieces", "price": 4.9 }
+        ],
+        "images": [
+            "https://amarainfinites.com/img/519.jpg",
+            "https://amarainfinites.com/img/519A.jpg"  
+            ],
+        "description": "Stand Up Pouch (Matte Green): eco-friendly, resealable pouch with matte green finish, ideal for product packaging."
+     },
+     {
+        "name": "Stand Up Pouch (Kraft Paper White)",
+        "category": "Packaging",
+        "unit": "per piece",
+        "quantities": [
+          { "quantity": "100 pieces", "price": 6.4 },
+          { "quantity": "500 pieces", "price": 5.8 },
+          { "quantity": "1000 pieces", "price": 5 }
+        ],
+        "images": [
+            "https://amarainfinites.com/img/520.jpg"   
+            ],
+        "description": "Stand Up Pouch (Kraft Paper White): eco-friendly, resealable pouch with white kraft paper, perfect for premium packaging."
+     },
+     {
+        "name": "Stand Up Pouch (Kraft Paper Black)",
+        "category": "Packaging",
+        "unit": "per piece",
+        "quantities": [
+          { "quantity": "100 pieces", "price": 6.6 },
+          { "quantity": "500 pieces", "price": 5.9 },
+          { "quantity": "1000 pieces", "price": 5.1 }
+        ],
+        "images": [
+            "https://amarainfinites.com/img/521.jpg",
+            "https://amarainfinites.com/img/521A.jpg"    
+            ],
+        "description": "Stand Up Pouch (Kraft Paper Black): stylish, eco-friendly pouch with black kraft paper, perfect for packaging products."
+     },
+     {
+      "name": "Spout Pouch (Transparent)",
+      "category": "Packaging",
+      "unit": "per piece",
+      "quantities": [
+        { "quantity": "100 pieces", "price": 6.5 },
+        { "quantity": "500 pieces", "price": 5.6 },
+        { "quantity": "1000 pieces", "price": 5 }
+      ],
+      "images": [
+        "https://amarainfinites.com/img/522.jpg"   
+        ],
+      "description": "A transparent spout pouch is a convenient, flexible, squeezable packaging option for liquids, offering easy dispensing."
+     },
+     {
+      "name": "Spout Pouch (Aluminium)",
+      "category": "Packaging",
+      "unit": "per piece",
+      "quantities": [
+        { "quantity": "100 pieces", "price": 18 },
+        { "quantity": "500 pieces", "price": 16.5 },
+        { "quantity": "1000 pieces", "price": 16 }
+      ],
+      "images": [
+        "https://amarainfinites.com/img/523.jpg",
+        "https://amarainfinites.com/img/523A.jpg"    
+        ],
+      "description": "An aluminum spout pouch offers durable, lightweight packaging for liquids, ensuring protection and extended freshness."
+     },
+     {
+      "name": "Pillow Pouch (Transparent)",
+      "category": "Packaging",
+      "unit": "per piece",
+      "quantities": [
+        { "quantity": "100 pieces", "price": 5 },
+        { "quantity": "500 pieces", "price": 4.2 },
+        { "quantity": "1000 pieces", "price": 3.8 }
+      ],
+      "images": [
+        "https://amarainfinites.com/img/524.jpg"    
+        ],
+      "description": "A sleek, transparent pillow pouch ideal for storing, protecting, and showcasing items stylishly."
+     },
+     {
+      "name": "Gusset Pouch (Transparent)",
+      "category": "Packaging",
+      "unit": "per piece",
+      "quantities": [
+        { "quantity": "100 pieces", "price": 12 },
+        { "quantity": "500 pieces", "price": 11.5 },
+        { "quantity": "1000 pieces", "price": 11.2 }
+      ],
+      "images": [
+        "https://amarainfinites.com/img/525.jpg",
+        "https://amarainfinites.com/img/525A.jpg"    
+        ],
+      "description": "Transparent gusset pouch with expandable sides, perfect for secure storage and attractive product display."
+     },
+     {
+      "name": "Gusset Pouch (One Side Transparent)",
+      "category": "Packaging",
+      "unit": "per piece",
+      "quantities": [
+        { "quantity": "100 pieces", "price": 12 },
+        { "quantity": "500 pieces", "price": 11.5 },
+        { "quantity": "1000 pieces", "price": 11.2 }
+      ],
+      "images": [
+        "https://amarainfinites.com/img/526.jpg" 
+        ],
+      "description": "Gusset pouch with one clear side, perfect for visible, secure, and attractive product packaging."
+     },
+     {
+      "name": "Gusset Pouch (Kraft Paper)",
+      "category": "Packaging",
+      "unit": "per piece",
+      "quantities": [
+        { "quantity": "100 pieces", "price": 13 },
+        { "quantity": "500 pieces", "price": 12.4 },
+        { "quantity": "1000 pieces", "price": 11.8 }
+      ],
+      "images": [
+        "https://amarainfinites.com/img/527.jpg",
+        "https://amarainfinites.com/img/527A.jpg"   
+        ],
+      "description": "Eco-friendly kraft paper gusset pouch, durable and stylish, ideal for natural and sustainable packaging."
+     },
+     {
+      "name": "Gusset Pouch (Kraft Paper with Window)",
+      "category": "Packaging",
+      "unit": "per piece",
+      "quantities": [
+        { "quantity": "100 pieces", "price": 13 },
+        { "quantity": "500 pieces", "price": 12.4 },
+        { "quantity": "1000 pieces", "price": 11.8 }
+      ],
+      "images": [
+        "https://amarainfinites.com/img/528.jpg",
+        "https://amarainfinites.com/img/528A.jpg"    
+        ],
+      "description": "Kraft paper gusset pouch with clear window, eco-friendly and perfect for showcasing products naturally."
+     },
+     {
+      "name": "Gusset Pouch (Glossy Red)",
+      "category": "Packaging",
+      "unit": "per piece",
+      "quantities": [
+        { "quantity": "100 pieces", "price": 11 },
+        { "quantity": "500 pieces", "price": 10.5 },
+        { "quantity": "1000 pieces", "price": 10.2 }
+      ],
+      "images": [
+        "https://amarainfinites.com/img/529.jpg",
+        "https://amarainfinites.com/img/529A.jpg"    
+        ],
+      "description": "Glossy red gusset pouch, vibrant and durable, perfect for eye-catching, high-quality product packaging."
+     },
+     {
+      "name": "Gusset Pouch (Glossy Purple)",
+      "category": "Packaging",
+      "unit": "per piece",
+      "quantities": [
+        { "quantity": "100 pieces", "price": 11 },
+        { "quantity": "500 pieces", "price": 10.5 },
+        { "quantity": "1000 pieces", "price": 10.2 }
+      ],
+      "images": [
+        "https://amarainfinites.com/img/530.jpg",
+        "https://amarainfinites.com/img/530A.jpg"    
+        ],
+      "description": "Glossy purple gusset pouch, elegant and durable, perfect for premium and visually striking product packaging."
+    },
+    {
+      "name": "Gusset Pouch (Glossy Blue)",
+      "category": "Packaging",
+      "unit": "per piece",
+      "quantities": [
+        { "quantity": "100 pieces", "price": 11 },
+        { "quantity": "500 pieces", "price": 10.5 },
+        { "quantity": "1000 pieces", "price": 10.2 }
+      ],
+      "images": [
+        "https://amarainfinites.com/img/531.jpg"    
+        ],
+      "description": "Glossy blue gusset pouch, vibrant and sturdy, ideal for premium and attention-grabbing product packaging."
+     },
+     {
+      "name": "Side Seal Pouch (One Side Transparent)",
+      "category": "Packaging",
+      "unit": "per piece",
+      "quantities": [
+        { "quantity": "100 pieces", "price": 6.1 },
+        { "quantity": "500 pieces", "price": 5.5 },
+        { "quantity": "1000 pieces", "price": 5.1 }
+      ],
+      "images": [
+        "https://amarainfinites.com/img/532.jpg"    
+        ],
+      "description": "Side seal pouch with one clear side, ideal for showcasing and securely packaging products efficiently."
+     },
+     {
+      "name": "Side Seal Pouch (Transparent)",
+      "category": "Packaging",
+      "unit": "per piece",
+      "quantities": [
+        { "quantity": "100 pieces", "price": 6 },
+        { "quantity": "500 pieces", "price": 5.4 },
+        { "quantity": "1000 pieces", "price": 5 }
+      ],
+      "images": [
+        "https://amarainfinites.com/img/533.jpg"    
+        ],
+      "description": "Transparent side seal pouch, offering clear visibility and secure, durable packaging for various products."
+     },
+     {
+      "name": "Side Seal Pouch (Transparent with Zipper)",
+      "category": "Packaging",
+      "unit": "per piece",
+      "quantities": [
+        { "quantity": "100 pieces", "price": 6.3 },
+        { "quantity": "500 pieces", "price": 5.7 },
+        { "quantity": "1000 pieces", "price": 5.3 }
+      ],
+      "images": [
+        "https://amarainfinites.com/img/534.jpg"   
+        ],
+      "description": "Transparent side seal pouch with zipper, offering easy access and secure packaging for various products."
+     },
+     {
+      "name": "Side Seal Pouch (Aluminium)",
+      "category": "Packaging",
+      "unit": "per piece",
+      "quantities": [
+        { "quantity": "100 pieces", "price": 6.8 },
+        { "quantity": "500 pieces", "price": 6.2 },
+        { "quantity": "1000 pieces", "price": 5.8 }
+      ],
+      "images": [
+        "https://amarainfinites.com/img/535.jpg"   
+        ],
+      "description": "Aluminium side seal pouch, durable and protective, ideal for securing products with moisture and odor resistance."
+     },
+     {
+      "name": "Side Seal Pouch (Kraft Paper with Zipper)",
+      "category": "Packaging",
+      "unit": "per piece",
+      "quantities": [
+        { "quantity": "100 pieces", "price": 6.5 },
+        { "quantity": "500 pieces", "price": 5.9 },
+        { "quantity": "1000 pieces", "price": 5.5 }
+      ],
+      "images": [
+        "https://amarainfinites.com/img/536.jpg",
+        "https://amarainfinites.com/img/536A.jpg"    
+        ],
+      "description": "Kraft paper side seal pouch with zipper, eco-friendly and secure, perfect for sustainable product packaging."
+     },
+     { 
+      "name": "Side Seal Pouch (Vacuum)",
+      "category": "Packaging",
+      "unit": "per piece",
+      "quantities": [
+        { "quantity": "100 pieces", "price": 6.7 },
+        { "quantity": "500 pieces", "price": 6.1 },
+        { "quantity": "1000 pieces", "price": 5.7 }
+      ],
+      "images": [
+        "https://amarainfinites.com/img/537.jpg"    
+        ],
+      "description": "Vacuum side seal pouch, designed for air-tight sealing, ideal for preserving freshness and extending shelf life."
+     },
+     {
+      "name": "Cup",
+      "category": "Packaging",
+      "unit": "80 pieces",
+      "quantities": [
+        { "quantity": "1", "price": 35 }
+      ],
+     "images": [
+      "https://amarainfinites.com/img/59A.jpg",
+      "https://amarainfinites.com/img/59B.jpg"
+      ],
+      "description": "Affordable, lightweight, stackable, convenient, durable, ideal for parties and gatherings."
+    },
+     {
+      "name": "Mono Carton Printed Boxes",
+      "category": "Packaging",
+      "unit": "per piece",
+      "quantities": [
+        { "quantity": "1000 pieces", "price": 14 },
+        { "quantity": "2000 pieces", "price": 10 },
+        { "quantity": "3000 pieces", "price": 8 }
+      ],
+      "images": [
+        "https://amarainfinites.com/img/538.jpg",
+        "https://amarainfinites.com/img/538A.jpg",
+        "https://amarainfinites.com/img/538B.jpg"    
+        ],
+      "description": "Mono carton printed boxes, custom-designed for secure, branded packaging, offering strength and visual appeal."
+     },
+     {
+      "name": "Kraft Paper Bowl with Lid",
+      "category": "Packaging",
+      "unit": "per piece",
+      "quantities": [
+        { "quantity": "300 pieces", "price": 9 }
+      ],
+      "images": [
+        "https://amarainfinites.com/img/539.jpg",
+        "https://amarainfinites.com/img/539A.jpg"   
+        ],
+      "description": "Kraft paper bowl with lid, sturdy and eco-friendly, ideal for packaging hot or cold foods."
+     },
+     {
+      "name": "Pizza Box",
+      "category": "Packaging",
+      "unit": "per piece",
+      "quantities": [
+        { "quantity": "100 pieces", "price": 7.5 }
+      ],
+      "images": [
+        "https://amarainfinites.com/img/540.jpg",
+        "https://amarainfinites.com/img/540A.jpg",
+        "https://amarainfinites.com/img/540B.jpg"    
+        ],
+      "description": "Sturdy pizza box, designed for safe delivery and storage, keeping pizzas fresh and secure."
+     },
+     {
+      "name": "Burger Box",
+      "category": "Packaging",
+      "unit": "per piece",
+      "quantities": [
+        { "quantity": "100 pieces", "price": 7.5 }
+      ],
+      "images": [
+        "https://amarainfinites.com/img/541.jpg",
+        "https://amarainfinites.com/img/541A.jpg"  
+        ],
+      "description": "Durable burger box, perfect for securely packaging and serving burgers while maintaining freshness and presentation."
+     },
+     {
+      "name": "Sandwich Box",
+      "category": "Packaging",
+      "unit": "per piece",
+      "quantities": [
+        { "quantity": "100 pieces", "price": 7.8 }
+      ],
+      "images": [
+        "https://amarainfinites.com/img/542.jpg"    
+        ],
+      "description": "Sturdy sandwich box, ideal for securely packaging sandwiches, keeping them fresh and ready to serve."
+     },
+     {
+      "name": "French Fries Box",
+      "category": "Packaging",
+      "unit": "per piece",
+      "quantities": [
+        { "quantity": "100 pieces", "price": 5 }
+      ],
+      "images": [
+        "https://amarainfinites.com/img/543.jpg"   
+        ],
+      "description": "Convenient French fries box, designed for easy serving and secure packaging, keeping fries fresh and crispy."
+     },
+     {
+      "name": "Noodles Box",
+      "category": "Packaging",
+      "unit": "per piece",
+      "quantities": [
+        { "quantity": "100 pieces", "price": 7.2 }
+      ],
+      "images": [
+        "https://amarainfinites.com/img/544.jpg",
+        "https://amarainfinites.com/img/544A.jpg"   
+        ],
+      "description": "Noodles box, perfect for packaging and serving noodles, offering convenience and maintaining freshness during delivery."
+     },
+     {
+      "name": "Dosa Box",
+      "category": "Packaging",
+      "unit": "per piece",
+      "quantities": [
+        { "quantity": "100 pieces", "price": 7.5 }
+      ],
+      "images": [
+        "https://amarainfinites.com/img/545.jpg",
+        "https://amarainfinites.com/img/545A.jpg"    
+        ],
+      "description": "Dosa box, ideal for packaging and serving dosas, maintaining warmth and freshness during transport."
+     },
+     {
+      "name": "Popcorn Box",
+      "category": "Packaging",
+      "unit": "per piece",
+      "quantities": [
+        { "quantity": "100 pieces", "price": 9 }
+      ],
+      "images": [
+        "https://amarainfinites.com/img/546.jpg"    
+        ],
+      "description": "Popcorn box, sturdy and lightweight, designed for convenient packaging and serving of fresh popcorn."
+     },
+     {
+      "name": "1CP Meal Pack",
+      "category": "Packaging",
+      "unit": "per piece",
+      "quantities": [
+        { "quantity": "100 pieces", "price": 24 }
+      ],
+      "images": [
+        "https://amarainfinites.com/img/547.jpg",
+        "https://amarainfinites.com/img/547A.jpg"  
+        ],
+      "description": "1CP meal pack, ideal for single-serve meals, offering secure packaging and easy portability."
+     },
+     {
+      "name": "2CP Meal Pack ",
+      "category": "Packaging",
+      "unit": "per piece",
+      "quantities": [
+        { "quantity": "100 pieces", "price": 16 }
+      ],
+      "images": [
+        "https://amarainfinites.com/img/548.jpg",
+        "https://amarainfinites.com/img/548A.jpg"    
+        ],
+      "description": "2CP meal pack, perfect for packaging two servings, ensuring secure and convenient storage of meals."
+     },
+     {
+      "name": "3CP Meal Pack",
+      "category": "Packaging",
+      "unit": "per piece",
+      "quantities": [
+        { "quantity": "100 pieces", "price": 25 }
+      ],
+      "images": [
+        "https://amarainfinites.com/img/549.jpg",
+        "https://amarainfinites.com/img/549A.jpg"    
+        ],
+      "description": "3CP meal pack, perfect for three servings, ensuring convenient, secure packaging for family or group meals."
+     }
+    ]
+    
+    
+    

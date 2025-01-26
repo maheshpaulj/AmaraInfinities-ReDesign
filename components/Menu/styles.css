@@ -1,0 +1,30 @@
+.burger {
+    width: 100%;
+}
+
+.burger::after, .burger::before {
+    content: "";
+    display: block;
+    width: 40%;
+    background-color: black;
+    height: 2px;
+    margin: auto;
+    position: relative;
+    transition: transform 0.3s ease-in-out;
+}
+
+.burger::after {
+    top: -5px;
+}
+.burger::before {
+    top: 5px;
+}
+
+.burgerActive::after {
+    top: -1px;
+    transform: rotate(45deg);
+}
+.burgerActive::before {
+    top: 0px;
+    transform: rotate(-45deg);
+}

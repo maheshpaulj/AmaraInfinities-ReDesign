@@ -1,0 +1,57 @@
+.loader-clip {
+    position: absolute;
+    width: 100vw;
+    height: 33.3vh;
+    overflow: clip;
+    z-index: 99999;
+}
+.clip-top{
+    top: 0;
+    clip-path: inset(0 0 0 0);
+    background-color: black;
+}
+.clip-bottom{
+    bottom: 0;
+    clip-path: inset(0 0 0 0);
+    background-color: black;
+}
+.clip-center{
+    overflow: hidden;
+    position: relative;
+    width: 100vw;
+    height: 33.3vh;
+    top: 33.3vh;
+}
+.marquee {
+    position: absolute;
+    top: 200%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 300vw;
+    color: #fff;
+    mix-blend-mode: difference;
+    font-size: 12vw;
+}
+
+.marquee-container{
+    width: 100%;
+    padding-top: 0.2rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-wrap: nowrap;
+    gap: 64px;
+}
+
+.container{
+    position: absolute;
+    top: 0;
+    width: 100vh;
+    overflow: hidden;
+    z-index: 1;
+    text-transform: uppercase;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    font-size: 14px;
+}
