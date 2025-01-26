@@ -1,7 +1,6 @@
 "use client";
 import { motion } from 'framer-motion';
 import { Phone, Mail, Instagram, Facebook } from 'lucide-react';
-import { FaWhatsapp } from "react-icons/fa";
 import { FaThreads, FaXTwitter } from "react-icons/fa6";
 
 export default function Contact() {

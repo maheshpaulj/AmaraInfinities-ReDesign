@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import React from 'react'
 import { motion } from 'framer-motion';
 import { usePathname } from 'next/navigation';
 import { menuSlide } from '../anim';
@@ -29,7 +29,7 @@ const navItems = [
   },
 ]
 
-export default function index({closeNav}:{closeNav:()=>void}) {
+export default function Nav({closeNav}:{closeNav:()=>void}) {
 
   const pathname = usePathname();
 

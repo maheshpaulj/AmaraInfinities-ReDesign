@@ -126,13 +126,13 @@ export default function About() {
           className="space-y-6 text-gray-700 leading-relaxed"
         >
           <p>
-            At Amara Infinites, we understand that navigating the complexities of modern business can be challenging. That's why we've created a seamless ecosystem designed to empower you at every stage of your journey.
+            At Amara Infinites, we understand that navigating the complexities of modern business can be challenging. That&apos;s why we&apos;ve created a seamless ecosystem designed to empower you at every stage of your journey.
           </p>
           <p>
             With a passion for innovation, we harness cutting-edge technology to provide robust solutions that enhance your online presence and engage your audience. Our commitment to excellence extends to all aspects of your operations.
           </p>
           <p>
-            What sets us apart is our holistic approach. We don't just provide services; we build partnerships. Your goals become our mission as we collaborate to tackle challenges and seize opportunities.
+            What sets us apart is our holistic approach. We don&apos;t just provide services; we build partnerships. Your goals become our mission as we collaborate to tackle challenges and seize opportunities.
           </p>
         </motion.div>
 
@@ -141,7 +141,7 @@ export default function About() {
           className="text-center mt-12"
         >
           <p className="text-2xl font-semibold text-gray-800">
-            Let's embark on this journey towards success, one solution at a time.
+            Let&apos;s embark on this journey towards success, one solution at a time.
           </p>
         </motion.div>
       </div>
