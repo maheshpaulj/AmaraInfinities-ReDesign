@@ -185,21 +185,20 @@ export default function ProductsPage() {
       initial="hidden"
       animate="visible"
       variants={containerVariants}
-      className="flex min-h-screen bg-gray-100 pt-20 pb-20"
+      className="flex min-h-screen bg-white pt-20 pb-20"
     >
       {/* Sidebar */}
       <motion.div 
         variants={itemVariants}
-        className="h-full mt-8 w-64 bg-white p-6 border-r shadow-sm flex flex-col max-md:hidden rounded-md ml-2"
+        className="h-full mt-8 w-64 bg-white p-6 border-2 border-black shadow-sm flex flex-col max-md:hidden rounded-md ml-2"
       >
-        <h2 className="text-xl font-bold mb-6 flex items-center">
-          <Filter className="mr-2" /> Filters
+        <h2 className="text-xl mb-6 font-bold flex items-center border-b-2 border-black">
+          FILTERS
         </h2>
         
-        <div className="space-y-2">
-          <h3 className="font-semibold text-gray-700">Categories</h3>
+        <div className="space-y-1">
           {Object.entries(CATEGORIES).map(([key, category]) => (
-            <div key={key} className="flex items-center">
+            <div key={key} className={`flex items-center px-2 py-1 rounded-md ${selectedCategory === category.id || (category.id === "all" && selectedCategory === null) ? "bg-black text-white" : ""} transition`}>
               <input 
                 type="radio" 
                 name="category"
@@ -208,9 +207,9 @@ export default function ProductsPage() {
                 onChange={() => setSelectedCategory(
                   selectedCategory === category.id ? null : (category.id === "all" ? null : category.id)
                 )}
-                className="mr-2 cursor-pointer"
+                className="hidden"
               />
-              <label htmlFor={category.id} className="cursor-pointer">{category.name}</label>
+              <label htmlFor={category.id} className={`cursor-pointer w-full`}>{category.name}</label>
             </div>
           ))}
         </div>
@@ -228,18 +227,18 @@ export default function ProductsPage() {
               placeholder="Search products..." 
               value={searchTerm}
               onChange={(e) => setSearchTerm(e.target.value)}
-              className="w-full pl-10 pr-4 py-2 border rounded-md focus:outline-none focus:ring-2 focus:ring-gray-500"
+              className="w-full pl-10 pr-4 py-2 border-b-2 border-black "
             />
-            <Search className="absolute left-3 top-1/2 transform -translate-y-1/2 text-gray-400" />
+            <Search className="absolute left-3 top-1/2 transform -translate-y-1/2 text-black" />
           </div>
           <div className="w-full items-center hidden max-md:flex">
             <Filter />
-            <div className="space-y-2 flex-1">
+            <div className="space-y-2 flex-1 ml-2">
               <select
                 onChange={(e) => setSelectedCategory(
                   selectedCategory === e.target.value ? null : (e.target.value === "all" ? null : e.target.value)
                 )}
-                className="w-full border rounded-md px-2 py-1"
+                className="w-full border-b-2 border-black px-2 py-1"
               >
                 {Object.entries(CATEGORIES).map(([key, category]) => (
                   <option key={key} value={category.id}>
@@ -255,7 +254,7 @@ export default function ProductsPage() {
               <select 
                 value={sortBy}
                 onChange={(e) => setSortBy(e.target.value as SortOption)}
-                className="border rounded-md px-2 py-1"
+                className="border-b-2 border-black px-2 py-1"
               >
                 <option value="name">Name (A-Z)</option>
                 <option value="price-asc">Price (Low to High)</option>
@@ -321,9 +320,8 @@ export default function ProductsPage() {
               <motion.div 
                 key={product.name}
                 variants={itemVariants}
-                whileHover={{ scale: 1.02 }}
                 className={`
-                  bg-white border rounded-lg shadow-sm overflow-hidden
+                  bg-white border-2 border-black rounded-md shadow-sm overflow-hidden 
                   ${viewMode === 'list' ? 'flex items-center p-4' : 'p-4'}
                 `}
               >
@@ -357,15 +355,17 @@ export default function ProductsPage() {
                     )}
                   </div>
                 )}
-                <div>
-                  <h3 className="text-lg font-semibold">{product.name}</h3>
-                  <p className="text-gray-600 text-sm">{product.description}</p>
+                <div className='flex flex-col justify-between'>
+                  <div className="">
+                    <h3 className="text-lg font-semibold">{product.name}</h3>
+                    <p className="text-gray-600 text-sm">{product.description}</p>
+                  </div>
                   
                   <div className="mt-2">
                     <select 
                       value={JSON.stringify(productState.selectedQuantity)}
                       onChange={(e) => handleQuantityChange(JSON.parse(e.target.value))}
-                      className="w-full border rounded-md px-2 py-1"
+                      className="border-b-2 border-black px-2 py-1"
                     >
                       {product.quantities.map((qty, idx) => (
                         <option 
@@ -378,7 +378,7 @@ export default function ProductsPage() {
                     </select>
                   </div>
 
-                  <div className="mt-2 flex justify-between items-center">
+                  <div className={`mt-2 flex justify-between items-center ${viewMode === 'list' ? "self-start gap-2" : ""}`}>
                     <span className="font-bold text-gray-800">
                       ₹{productState.selectedQuantity.price}
                     </span>
@@ -388,7 +388,7 @@ export default function ProductsPage() {
                       rel="noopener noreferrer"
                       whileHover={{ scale: 1.05 }}
                       whileTap={{ scale: 0.95 }}
-                      className="bg-green-600 text-white px-3 py-1 rounded-md hover:bg-green-700 flex items-center"
+                      className="bg-black text-white px-3 py-1 rounded-md hover:bg-green-600 flex items-center"
                     >
                       Inquire
                     </motion.a>
@@ -400,7 +400,7 @@ export default function ProductsPage() {
         </motion.div>
 
         {/* Pagination */}
-        <div className="flex justify-center mt-8 space-x-2 w-full">
+        <div className={`flex justify-center mt-8 space-x-2 w-full ${totalPages === 1 ? 'hidden' : ''}`}>
           <button
             onClick={() => setCurrentPage(currentPage - 1)}
             disabled={currentPage === 1}
@@ -427,7 +427,7 @@ export default function ProductsPage() {
           <button
             onClick={() => setCurrentPage(currentPage + 1)}
             disabled={currentPage === totalPages}
-            className={`rounded-md ${currentPage === totalPages ? 'text-black' : 'text-gray-500'} hover:text-black`}
+            className={`rounded-md ${currentPage === totalPages ? 'hidden' : 'text-gray-500'} hover:text-black`}
           >
             Next
           </button>

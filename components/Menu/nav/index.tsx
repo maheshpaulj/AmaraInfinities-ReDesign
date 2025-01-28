@@ -116,7 +116,7 @@ export default function Nav({ closeNav }: { closeNav: () => void }) {
                   pathname === data.href && "scale-110"
                 }`}
               ></div>
-              <Link href={data.href} onClick={closeNav}>
+              <Link href={data.href} onClick={closeNav} className={`${viaoda.className} hover:scale-105 transition`}>
                 {data.title}
               </Link>
             </motion.div>
