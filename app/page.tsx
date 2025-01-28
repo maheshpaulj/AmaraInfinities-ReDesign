@@ -169,8 +169,8 @@ export default function Home() {
           </div>
         </div>
       </div>
-      <div className="absolute top-2/3 left-1/2 -ml-[180px] flex flex-col space-y-2 justify-center items-center">
-        <div className="text-xl font-semibold" ref={textRefs}>
+      <div className="absolute top-[60%] left-1/2 -ml-[180px] flex flex-col space-y-2 justify-center items-center">
+        <div className="text-xl font-semibold text-center" ref={textRefs}>
           <p>
             <span>Business.</span> <span>Legalities.</span> <span>Accounts.</span> <span>Creatives</span>
           </p>
